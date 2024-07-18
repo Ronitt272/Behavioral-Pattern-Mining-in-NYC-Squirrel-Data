@@ -13,15 +13,15 @@ Yueran Ma (UNI: ym2876) <br>
 `pip install -r requirements.txt` <br>
 `python3 main.py squirrel.csv <support_threshold> <confidence_threshold>` <br>
 
-`<support_threshold>` => The minimum percentage of occurrences an itemset must have in the 2018 Central Park Squirrel Census data to be considered frequent. For example, a support threshold of 70% means an itemset must appear in at least 70% of the rows to be included in the analysis.
+**<support_threshold>** => The minimum percentage of occurrences an itemset must have in the 2018 Central Park Squirrel Census data to be considered frequent. For example, a support threshold of 70% means an itemset must appear in at least 70% of the rows to be included in the analysis.
 
-`<confidence_threshold>` => The minimum percentage that measures the reliability of the association rule in the 2018 Central Park Squirrel Census data. For example, a confidence threshold of 80% means that for the rule to be considered strong, the consequent must appear in at least 80% of the cases where the antecedent is present.
+**<confidence_threshold>** => The minimum percentage that measures the reliability of the association rule in the 2018 Central Park Squirrel Census data. For example, a confidence threshold of 80% means that for the rule to be considered strong, the consequent must appear in at least 80% of the cases where the antecedent is present.
 
-Both `<support_threshold>` and `<confidence_threshold>` must be between 0 and 1.0
+Both **<support_threshold>** and **<confidence_threshold>** must be between 0 and 1.0
 
 # Dataset 
 
-We have used the 2018 Central Park Squirrel Census Data on NYC Open Data.
+We have used the 2018 Central Park Squirrel Census Data on NYC Open Data. <br>
 Dataset Link: https://data.cityofnewyork.us/Environment/2018-Central-Park-Squirrel-Census-Squirrel-Data/vfnx-vebw/about_data
 
 # Preprocessing
