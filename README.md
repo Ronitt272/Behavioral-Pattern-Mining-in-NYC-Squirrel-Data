@@ -2,9 +2,9 @@
 
 This project was a team effort for the COMS6111 - Advanced Database Systems course at Columbia University.
 
-# Team members: 
-Ronitt Mehra (UNI: rm4084)
-Yueran Ma (UNI: ym2876)
+# Team members: <br>
+Ronitt Mehra (UNI: rm4084) <br>
+Yueran Ma (UNI: ym2876) <br>
 
 ## Steps to run the program
 
