@@ -1,5 +1,7 @@
 # Behavioral-Pattern-Mining-in-NYC-Squirrel-Data
 
+This project was a team effort for the COMS6111 - Advanced Database Systems course at Columbia University.
+
 # Team members: 
 Ronitt Mehra (UNI: rm4084)
 Yueran Ma (UNI: ym2876)
