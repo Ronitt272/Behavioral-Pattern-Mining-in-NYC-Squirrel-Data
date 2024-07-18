@@ -1,0 +1,1025 @@
+==Frequent itemsets (min_sup=0.7)
+['not moaning'], 99.9008%
+['not quaaing'], 98.3460%
+['not moaning', 'not quaaing'], 98.2799%
+['not kukking'], 96.6259%
+['not moaning', 'not kukking'], 96.5266%
+['not kukking', 'not quaaing'], 95.4681%
+['not moaning', 'not kukking', 'not quaaing'], 95.4019%
+['not flagging tail'], 94.8726%
+['not moaning', 'not flagging tail'], 94.7734%
+['not approaching human'], 94.1118%
+['not moaning', 'not approaching human'], 94.0126%
+['not flagging tail', 'not quaaing'], 93.4833%
+['not moaning', 'not flagging tail', 'not quaaing'], 93.4171%
+['not approaching human', 'not quaaing'], 92.4578%
+['not moaning', 'not approaching human', 'not quaaing'], 92.3917%
+['not kukking', 'not flagging tail'], 91.9285%
+['not moaning', 'not kukking', 'not flagging tail'], 91.8293%
+['not kukking', 'not flagging tail', 'not quaaing'], 90.9362%
+['not kukking', 'not approaching human'], 90.8700%
+['not moaning', 'not kukking', 'not flagging tail', 'not quaaing'], 90.8700%
+['not chasing'], 90.7708%
+['not moaning', 'not kukking', 'not approaching human'], 90.7708%
+['not moaning', 'not chasing'], 90.7046%
+['not kukking', 'not approaching human', 'not quaaing'], 89.7122%
+['not moaning', 'not kukking', 'not approaching human', 'not quaaing'], 89.6460%
+['not chasing', 'not quaaing'], 89.6130%
+['not moaning', 'not chasing', 'not quaaing'], 89.5468%
+['not flagging tail', 'not approaching human'], 89.3152%
+['not moaning', 'not flagging tail', 'not approaching human'], 89.2160%
+['not kukking', 'not chasing'], 88.0251%
+['not moaning', 'not kukking', 'not chasing'], 87.9590%
+['not flagging tail', 'not approaching human', 'not quaaing'], 87.9259%
+['not moaning', 'not flagging tail', 'not approaching human', 'not quaaing'], 87.8597%
+['not kukking', 'not chasing', 'not quaaing'], 87.2643%
+['not moaning', 'not kukking', 'not chasing', 'not quaaing'], 87.1981%
+['not kukking', 'not flagging tail', 'not approaching human'], 86.4704%
+['not flagging tail', 'not chasing'], 86.4042%
+['not moaning', 'not kukking', 'not flagging tail', 'not approaching human'], 86.3712%
+['not moaning', 'not flagging tail', 'not chasing'], 86.3381%
+['not twitching tail'], 85.6434%
+['not moaning', 'not twitching tail'], 85.5442%
+['not kukking', 'not flagging tail', 'not approaching human', 'not quaaing'], 85.4780%
+['not flagging tail', 'not approaching human', 'not quaaing', 'not moaning', 'not kukking'], 85.4118%
+['not flagging tail', 'not chasing', 'not quaaing'], 85.3457%
+['not moaning', 'not flagging tail', 'not chasing', 'not quaaing'], 85.2795%
+['not chasing', 'not approaching human'], 85.1472%
+['not moaning', 'not approaching human', 'not chasing'], 85.0810%
+['Adult'], 84.9487%
+['not moaning', 'Adult'], 84.8826%
+['not twitching tail', 'not quaaing'], 84.2210%
+['not moaning', 'not twitching tail', 'not quaaing'], 84.1548%
+['not chasing', 'not approaching human', 'not quaaing'], 83.9894%
+['not kukking', 'not flagging tail', 'not chasing'], 83.9563%
+['not moaning', 'not chasing', 'not approaching human', 'not quaaing'], 83.9233%
+['not moaning', 'not kukking', 'not flagging tail', 'not chasing'], 83.8902%
+['Adult', 'not quaaing'], 83.6255%
+['not moaning', 'Adult', 'not quaaing'], 83.5925%
+['not kukking', 'not flagging tail', 'not chasing', 'not quaaing'], 83.2286%
+['not flagging tail', 'not chasing', 'not quaaing', 'not moaning', 'not kukking'], 83.1624%
+['not kukking', 'not twitching tail'], 82.7324%
+['not moaning', 'not kukking', 'not twitching tail'], 82.6331%
+['not kukking', 'not approaching human', 'not chasing'], 82.5339%
+['not moaning', 'not kukking', 'not chasing', 'not approaching human'], 82.4677%
+['not kukking', 'Adult'], 82.4347%
+['not moaning', 'not kukking', 'Adult'], 82.3685%
+['not kukking', 'not chasing', 'not approaching human', 'not quaaing'], 81.7731%
+['not approaching human', 'not chasing', 'not quaaing', 'not moaning', 'not kukking'], 81.7069%
+['not kukking', 'not twitching tail', 'not quaaing'], 81.6738%
+['not moaning', 'not kukking', 'not twitching tail', 'not quaaing'], 81.6077%
+['not kukking', 'Adult', 'not quaaing'], 81.4754%
+['not moaning', 'not kukking', 'Adult', 'not quaaing'], 81.4423%
+['not twitching tail', 'not flagging tail'], 81.1776%
+['not chasing', 'not flagging tail', 'not approaching human'], 81.1115%
+['not moaning', 'not twitching tail', 'not flagging tail'], 81.0784%
+['not moaning', 'not chasing', 'not flagging tail', 'not approaching human'], 81.0453%
+['not twitching tail', 'not approaching human'], 80.9130%
+['not moaning', 'not twitching tail', 'not approaching human'], 80.8138%
+['Adult', 'not flagging tail'], 80.6484%
+['Adult', 'not flagging tail', 'not moaning'], 80.5822%
+['not approaching human', 'not flagging tail', 'not chasing', 'not quaaing'], 80.0529%
+['not flagging tail', 'not approaching human', 'not chasing', 'not quaaing', 'not moaning'], 79.9868%
+['Adult', 'not approaching human'], 79.9537%
+['not twitching tail', 'not flagging tail', 'not quaaing'], 79.9537%
+['not moaning', 'Adult', 'not approaching human'], 79.8875%
+['not moaning', 'not twitching tail', 'not flagging tail', 'not quaaing'], 79.8875%
+['Adult', 'not flagging tail', 'not quaaing'], 79.5567%
+['not moaning', 'Adult', 'not flagging tail', 'not quaaing'], 79.5237%
+['not twitching tail', 'not approaching human', 'not quaaing'], 79.4906%
+['not moaning', 'not twitching tail', 'not approaching human', 'not quaaing'], 79.4244%
+['not kukking', 'not approaching human', 'not flagging tail', 'not chasing'], 78.7628%
+['not flagging tail', 'not approaching human', 'not chasing', 'not moaning', 'not kukking'], 78.6967%
+['Adult', 'not approaching human', 'not quaaing'], 78.6305%
+['not kukking', 'not twitching tail', 'not flagging tail'], 78.5974%
+['not moaning', 'Adult', 'not approaching human', 'not quaaing'], 78.5974%
+['not moaning', 'not kukking', 'not twitching tail', 'not flagging tail'], 78.4982%
+['Adult', 'not kukking', 'not flagging tail'], 78.4651%
+['not moaning', 'not kukking', 'Adult', 'not flagging tail'], 78.3989%
+['not climbing'], 78.2335%
+['not moaning', 'not climbing'], 78.2005%
+['not kukking', 'not twitching tail', 'not approaching human'], 78.1012%
+['not flagging tail', 'not approaching human', 'not quaaing', 'not chasing', 'not kukking'], 78.0351%
+['not moaning', 'not kukking', 'not twitching tail', 'not approaching human'], 78.0020%
+['not twitching tail', 'not chasing'], 77.9689%
+['not flagging tail', 'not chasing', 'not approaching human', 'not quaaing', 'not moaning', 'not kukking'], 77.9689%
+['not moaning', 'not twitching tail', 'not chasing'], 77.9027%
+['not kukking', 'not twitching tail', 'not flagging tail', 'not quaaing'], 77.7043%
+['not kukking', 'Adult', 'not flagging tail', 'not quaaing'], 77.6712%
+['not flagging tail', 'not quaaing', 'not moaning', 'not kukking', 'not twitching tail'], 77.6381%
+['Adult', 'not flagging tail', 'not quaaing', 'not moaning', 'not kukking'], 77.6381%
+['not running from human'], 77.5719%
+['not moaning', 'not running from human'], 77.5389%
+['not kukking', 'Adult', 'not approaching human'], 77.5389%
+['not moaning', 'not kukking', 'Adult', 'not approaching human'], 77.4727%
+['Adult', 'not chasing'], 77.4396%
+['not moaning', 'Adult', 'not chasing'], 77.4065%
+['not climbing', 'not quaaing'], 77.0427%
+['not moaning', 'not climbing', 'not quaaing'], 77.0427%
+['not kukking', 'not twitching tail', 'not approaching human', 'not quaaing'], 77.0427%
+['not approaching human', 'not quaaing', 'not moaning', 'not kukking', 'not twitching tail'], 76.9765%
+['not twitching tail', 'not chasing', 'not quaaing'], 76.9434%
+['not moaning', 'not twitching tail', 'not chasing', 'not quaaing'], 76.8773%
+['not twitching tail', 'not flagging tail', 'not approaching human'], 76.7119%
+['not moaning', 'not twitching tail', 'not flagging tail', 'not approaching human'], 76.6126%
+['not kukking', 'Adult', 'not approaching human', 'not quaaing'], 76.5796%
+['Adult', 'not chasing', 'not quaaing'], 76.5465%
+['Adult', 'not approaching human', 'not quaaing', 'not moaning', 'not kukking'], 76.5465%
+['not moaning', 'Adult', 'not chasing', 'not quaaing'], 76.5134%
+['not running from human', 'not quaaing'], 76.2157%
+['not kukking', 'not climbing'], 76.2157%
+['not moaning', 'not running from human', 'not quaaing'], 76.2157%
+['not moaning', 'not kukking', 'not climbing'], 76.1826%
+['Adult', 'not flagging tail', 'not approaching human'], 75.9510%
+['not moaning', 'Adult', 'not flagging tail', 'not approaching human'], 75.8849%
+['not running'], 75.8518%
+['not moaning', 'not running'], 75.7526%
+['not kukking', 'not twitching tail', 'not chasing'], 75.5210%
+['not twitching tail', 'not flagging tail', 'not approaching human', 'not quaaing'], 75.4879%
+['not kukking', 'Adult', 'not chasing'], 75.4548%
+['not moaning', 'not kukking', 'not twitching tail', 'not chasing'], 75.4548%
+['not moaning', 'not kukking', 'Adult', 'not chasing'], 75.4218%
+['not flagging tail', 'not approaching human', 'not quaaing', 'not moaning', 'not twitching tail'], 75.4218%
+['not kukking', 'not climbing', 'not quaaing'], 75.3556%
+['not moaning', 'not kukking', 'not climbing', 'not quaaing'], 75.3556%
+['not kukking', 'not running from human'], 75.2233%
+['not moaning', 'not kukking', 'not running from human'], 75.1902%
+['not eating'], 74.8594%
+['not kukking', 'not twitching tail', 'not chasing', 'not quaaing'], 74.8594%
+['Adult', 'not flagging tail', 'not approaching human', 'not quaaing'], 74.8594%
+['not kukking', 'Adult', 'not chasing', 'not quaaing'], 74.8263%
+['Adult', 'not flagging tail', 'not approaching human', 'not quaaing', 'not moaning'], 74.8263%
+['Adult', 'not chasing', 'not quaaing', 'not moaning', 'not kukking'], 74.7933%
+['not chasing', 'not quaaing', 'not moaning', 'not kukking', 'not twitching tail'], 74.7933%
+['not moaning', 'not eating'], 74.7602%
+['not running', 'not quaaing'], 74.5286%
+['not moaning', 'not running', 'not quaaing'], 74.4625%
+['not kukking', 'not running from human', 'not quaaing'], 74.2640%
+['not moaning', 'not kukking', 'not running from human', 'not quaaing'], 74.2640%
+['not kukking', 'not twitching tail', 'not flagging tail', 'not approaching human'], 74.1978%
+['not twitching tail', 'not flagging tail', 'not chasing'], 74.1647%
+['not flagging tail', 'not climbing'], 74.1317%
+['not running from human', 'not flagging tail'], 74.0986%
+['not moaning', 'not flagging tail', 'not climbing'], 74.0986%
+['not moaning', 'not twitching tail', 'not flagging tail', 'not chasing'], 74.0986%
+['not flagging tail', 'not approaching human', 'not moaning', 'not kukking', 'not twitching tail'], 74.0986%
+['not moaning', 'not running from human', 'not flagging tail'], 74.0655%
+['not kukking', 'Adult', 'not flagging tail', 'not approaching human'], 73.8339%
+['Adult', 'not flagging tail', 'not chasing'], 73.7678%
+['Adult', 'not flagging tail', 'not approaching human', 'not moaning', 'not kukking'], 73.7678%
+['not moaning', 'Adult', 'not flagging tail', 'not chasing'], 73.7347%
+['not eating', 'not quaaing'], 73.4039%
+['not chasing', 'not twitching tail', 'not approaching human'], 73.3708%
+['not moaning', 'not eating', 'not quaaing'], 73.3377%
+['not moaning', 'not chasing', 'not twitching tail', 'not approaching human'], 73.3047%
+['not flagging tail', 'not approaching human', 'not quaaing', 'not kukking', 'not twitching tail'], 73.3047%
+['not kukking', 'not running'], 73.2385%
+['not approaching human', 'not climbing'], 73.2385%
+['not flagging tail', 'not approaching human', 'not quaaing', 'not moaning', 'not kukking', 'not twitching tail'], 73.2385%
+['not moaning', 'not approaching human', 'not climbing'], 73.2054%
+['not twitching tail', 'not flagging tail', 'not chasing', 'not quaaing'], 73.2054%
+['not flagging tail', 'not climbing', 'not quaaing'], 73.1723%
+['not moaning', 'not flagging tail', 'not climbing', 'not quaaing'], 73.1723%
+['not moaning', 'not kukking', 'not running'], 73.1393%
+['not flagging tail', 'not chasing', 'not quaaing', 'not moaning', 'not twitching tail'], 73.1393%
+['Adult', 'not flagging tail', 'not approaching human', 'not quaaing', 'not kukking'], 73.0400%
+['not running from human', 'not flagging tail', 'not quaaing'], 73.0069%
+['not moaning', 'not running from human', 'not flagging tail', 'not quaaing'], 73.0069%
+['Adult', 'not flagging tail', 'not approaching human', 'not quaaing', 'not moaning', 'not kukking'], 73.0069%
+['Adult', 'not flagging tail', 'not chasing', 'not quaaing'], 72.9408%
+['Adult', 'not flagging tail', 'not chasing', 'not quaaing', 'not moaning'], 72.9077%
+['not twitching tail', 'Adult'], 72.8085%
+['not moaning', 'not twitching tail', 'Adult'], 72.7423%
+['not chasing', 'Adult', 'not approaching human'], 72.6100%
+['not moaning', 'not chasing', 'Adult', 'not approaching human'], 72.5769%
+['not kukking', 'not flagging tail', 'not climbing'], 72.4115%
+['not moaning', 'not kukking', 'not flagging tail', 'not climbing'], 72.3784%
+['not running from human', 'not approaching human'], 72.3454%
+['not kukking', 'not running', 'not quaaing'], 72.3454%
+['not chasing', 'not twitching tail', 'not approaching human', 'not quaaing'], 72.3454%
+['not moaning', 'not running from human', 'not approaching human'], 72.3123%
+['not moaning', 'not kukking', 'not running', 'not quaaing'], 72.2792%
+['not approaching human', 'not quaaing', 'not chasing', 'not moaning', 'not twitching tail'], 72.2792%
+['not flagging tail', 'not running'], 72.1469%
+['not eating', 'not kukking'], 72.1138%
+['not moaning', 'not running', 'not flagging tail'], 72.0476%
+['not approaching human', 'not quaaing', 'not climbing'], 72.0476%
+['not moaning', 'not climbing', 'not approaching human', 'not quaaing'], 72.0476%
+['not eating', 'not kukking', 'not moaning'], 72.0146%
+['not kukking', 'not running from human', 'not flagging tail'], 72.0146%
+['not kukking', 'Adult', 'not flagging tail', 'not chasing'], 72.0146%
+['not moaning', 'not running from human', 'not kukking', 'not flagging tail'], 71.9815%
+['Adult', 'not flagging tail', 'not chasing', 'not moaning', 'not kukking'], 71.9815%
+['not kukking', 'not twitching tail', 'not flagging tail', 'not chasing'], 71.9484%
+['not flagging tail', 'not chasing', 'not moaning', 'not kukking', 'not twitching tail'], 71.8822%
+['not chasing', 'Adult', 'not approaching human', 'not quaaing'], 71.7168%
+['not kukking', 'not flagging tail', 'not climbing', 'not quaaing'], 71.7168%
+['not flagging tail', 'not climbing', 'not quaaing', 'not moaning', 'not kukking'], 71.7168%
+['not twitching tail', 'Adult', 'not quaaing'], 71.6838%
+['Adult', 'not approaching human', 'not quaaing', 'not chasing', 'not moaning'], 71.6838%
+['not moaning', 'Adult', 'not twitching tail', 'not quaaing'], 71.6507%
+['Adult', 'not flagging tail', 'not chasing', 'not quaaing', 'not kukking'], 71.4191%
+['Adult', 'not flagging tail', 'not chasing', 'not quaaing', 'not moaning', 'not kukking'], 71.3860%
+['not kukking', 'not approaching human', 'not climbing'], 71.3199%
+['not flagging tail', 'not chasing', 'not quaaing', 'not kukking', 'not twitching tail'], 71.3199%
+['not moaning', 'not kukking', 'not climbing', 'not approaching human'], 71.2868%
+['not flagging tail', 'not chasing', 'not quaaing', 'not moaning', 'not kukking', 'not twitching tail'], 71.2537%
+['not running', 'not approaching human'], 71.2206%
+['not kukking', 'not running from human', 'not flagging tail', 'not quaaing'], 71.2206%
+['not flagging tail', 'not quaaing', 'not moaning', 'not running from human', 'not kukking'], 71.2206%
+['not eating', 'not approaching human'], 71.1876%
+['not moaning', 'not running', 'not approaching human'], 71.1214%
+['not eating', 'not kukking', 'not quaaing'], 71.1214%
+['not moaning', 'not eating', 'not approaching human'], 71.0883%
+['not eating', 'not flagging tail'], 71.0552%
+['not quaaing', 'not flagging tail', 'not running'], 71.0552%
+['not moaning', 'not eating', 'not kukking', 'not quaaing'], 71.0552%
+['not kukking', 'not chasing', 'not twitching tail', 'not approaching human'], 71.0222%
+['not running from human', 'not approaching human', 'not quaaing'], 70.9891%
+['not moaning', 'not running from human', 'not approaching human', 'not quaaing'], 70.9891%
+['not moaning', 'not running', 'not flagging tail', 'not quaaing'], 70.9891%
+['not moaning', 'not eating', 'not flagging tail'], 70.9560%
+['not approaching human', 'not chasing', 'not moaning', 'not kukking', 'not twitching tail'], 70.9560%
+['not kukking', 'not twitching tail', 'Adult'], 70.7244%
+['not kukking', 'Adult', 'not approaching human', 'not chasing'], 70.7244%
+['Adult', 'not approaching human', 'not chasing', 'not moaning', 'not kukking'], 70.6914%
+['not moaning', 'not kukking', 'Adult', 'not twitching tail'], 70.6583%
+['not chasing', 'not climbing'], 70.5590%
+['not moaning', 'not chasing', 'not climbing'], 70.5590%
+['not kukking', 'not climbing', 'not approaching human', 'not quaaing'], 70.4598%
+['not approaching human', 'not climbing', 'not quaaing', 'not moaning', 'not kukking'], 70.4598%
+['not chasing', 'not quaaing', 'not approaching human', 'not kukking', 'not twitching tail'], 70.3606%
+['not chasing', 'not approaching human', 'not quaaing', 'not moaning', 'not kukking', 'not twitching tail'], 70.2944%
+['not kukking', 'not running from human', 'not approaching human'], 70.0959%
+['Adult', 'not chasing', 'not quaaing', 'not approaching human', 'not kukking'], 70.0959%
+['not moaning', 'not kukking', 'not running from human', 'not approaching human'], 70.0629%
+['Adult', 'not chasing', 'not approaching human', 'not quaaing', 'not moaning', 'not kukking'], 70.0629%
+==High-confidence association rules (min_conf=0.8)
+['not running from human', 'not quaaing'] => ['not moaning'] (Conf: 100.00%, Supp: 76.2157%)
+['not climbing', 'not quaaing'] => ['not moaning'] (Conf: 100.00%, Supp: 77.0427%)
+['not chasing', 'not climbing'] => ['not moaning'] (Conf: 100.00%, Supp: 70.5590%)
+['not running from human', 'not flagging tail', 'not quaaing'] => ['not moaning'] (Conf: 100.00%, Supp: 73.0069%)
+['not running from human', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 100.00%, Supp: 70.9891%)
+['not kukking', 'not climbing', 'not quaaing'] => ['not moaning'] (Conf: 100.00%, Supp: 75.3556%)
+['not approaching human', 'not climbing', 'not quaaing'] => ['not moaning'] (Conf: 100.00%, Supp: 72.0476%)
+['not kukking', 'not running from human', 'not quaaing'] => ['not moaning'] (Conf: 100.00%, Supp: 74.2640%)
+['not flagging tail', 'not climbing', 'not quaaing'] => ['not moaning'] (Conf: 100.00%, Supp: 73.1723%)
+['not running from human', 'not flagging tail', 'not kukking', 'not quaaing'] => ['not moaning'] (Conf: 100.00%, Supp: 71.2206%)
+['not kukking', 'not flagging tail', 'not climbing', 'not quaaing'] => ['not moaning'] (Conf: 100.00%, Supp: 71.7168%)
+['not kukking', 'not approaching human', 'not quaaing', 'not climbing'] => ['not moaning'] (Conf: 100.00%, Supp: 70.4598%)
+['Adult', 'not quaaing'] => ['not moaning'] (Conf: 99.96%, Supp: 83.5925%)
+['not kukking', 'Adult', 'not quaaing'] => ['not moaning'] (Conf: 99.96%, Supp: 81.4423%)
+['Adult', 'not flagging tail', 'not quaaing'] => ['not moaning'] (Conf: 99.96%, Supp: 79.5237%)
+['Adult', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.96%, Supp: 78.5974%)
+['not climbing'] => ['not moaning'] (Conf: 99.96%, Supp: 78.2005%)
+['not kukking', 'Adult', 'not flagging tail', 'not quaaing'] => ['not moaning'] (Conf: 99.96%, Supp: 77.6381%)
+['not running from human'] => ['not moaning'] (Conf: 99.96%, Supp: 77.5389%)
+['Adult', 'not chasing'] => ['not moaning'] (Conf: 99.96%, Supp: 77.4065%)
+['not kukking', 'Adult', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.96%, Supp: 76.5465%)
+['Adult', 'not chasing', 'not quaaing'] => ['not moaning'] (Conf: 99.96%, Supp: 76.5134%)
+['not kukking', 'not climbing'] => ['not moaning'] (Conf: 99.96%, Supp: 76.1826%)
+['not kukking', 'Adult', 'not chasing'] => ['not moaning'] (Conf: 99.96%, Supp: 75.4218%)
+['not kukking', 'not running from human'] => ['not moaning'] (Conf: 99.96%, Supp: 75.1902%)
+['not approaching human', 'Adult', 'not flagging tail', 'not quaaing'] => ['not moaning'] (Conf: 99.96%, Supp: 74.8263%)
+['not kukking', 'Adult', 'not chasing', 'not quaaing'] => ['not moaning'] (Conf: 99.96%, Supp: 74.7933%)
+['not flagging tail', 'not climbing'] => ['not moaning'] (Conf: 99.96%, Supp: 74.0986%)
+['not running from human', 'not flagging tail'] => ['not moaning'] (Conf: 99.96%, Supp: 74.0655%)
+['not chasing', 'Adult', 'not flagging tail'] => ['not moaning'] (Conf: 99.96%, Supp: 73.7347%)
+['not approaching human', 'not climbing'] => ['not moaning'] (Conf: 99.95%, Supp: 73.2054%)
+['Adult', 'not flagging tail', 'not approaching human', 'not quaaing', 'not kukking'] => ['not moaning'] (Conf: 99.95%, Supp: 73.0069%)
+['not chasing', 'Adult', 'not flagging tail', 'not quaaing'] => ['not moaning'] (Conf: 99.95%, Supp: 72.9077%)
+['not approaching human', 'Adult', 'not chasing'] => ['not moaning'] (Conf: 99.95%, Supp: 72.5769%)
+['not kukking', 'not flagging tail', 'not climbing'] => ['not moaning'] (Conf: 99.95%, Supp: 72.3784%)
+['not running from human', 'not approaching human'] => ['not moaning'] (Conf: 99.95%, Supp: 72.3123%)
+['not running from human', 'not flagging tail', 'not kukking'] => ['not moaning'] (Conf: 99.95%, Supp: 71.9815%)
+['not kukking', 'not chasing', 'Adult', 'not flagging tail'] => ['not moaning'] (Conf: 99.95%, Supp: 71.9815%)
+['not chasing', 'Adult', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.95%, Supp: 71.6838%)
+['not twitching tail', 'Adult', 'not quaaing'] => ['not moaning'] (Conf: 99.95%, Supp: 71.6507%)
+['Adult', 'not flagging tail', 'not chasing', 'not quaaing', 'not kukking'] => ['not moaning'] (Conf: 99.95%, Supp: 71.3860%)
+['not kukking', 'not approaching human', 'not climbing'] => ['not moaning'] (Conf: 99.95%, Supp: 71.2868%)
+['not kukking', 'not chasing', 'Adult', 'not approaching human'] => ['not moaning'] (Conf: 99.95%, Supp: 70.6914%)
+['not kukking', 'not running from human', 'not approaching human'] => ['not moaning'] (Conf: 99.95%, Supp: 70.0629%)
+['Adult', 'not approaching human', 'not chasing', 'not quaaing', 'not kukking'] => ['not moaning'] (Conf: 99.95%, Supp: 70.0629%)
+['not quaaing'] => ['not moaning'] (Conf: 99.93%, Supp: 98.2799%)
+['not kukking', 'not quaaing'] => ['not moaning'] (Conf: 99.93%, Supp: 95.4019%)
+['not flagging tail', 'not quaaing'] => ['not moaning'] (Conf: 99.93%, Supp: 93.4171%)
+['not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.93%, Supp: 92.3917%)
+['not kukking', 'not flagging tail', 'not quaaing'] => ['not moaning'] (Conf: 99.93%, Supp: 90.8700%)
+['not chasing'] => ['not moaning'] (Conf: 99.93%, Supp: 90.7046%)
+['not kukking', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.93%, Supp: 89.6460%)
+['not chasing', 'not quaaing'] => ['not moaning'] (Conf: 99.93%, Supp: 89.5468%)
+['not kukking', 'not chasing'] => ['not moaning'] (Conf: 99.92%, Supp: 87.9590%)
+['not flagging tail', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.92%, Supp: 87.8597%)
+['not kukking', 'not chasing', 'not quaaing'] => ['not moaning'] (Conf: 99.92%, Supp: 87.1981%)
+['not flagging tail', 'not chasing'] => ['not moaning'] (Conf: 99.92%, Supp: 86.3381%)
+['not kukking', 'not flagging tail', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.92%, Supp: 85.4118%)
+['not flagging tail', 'not chasing', 'not quaaing'] => ['not moaning'] (Conf: 99.92%, Supp: 85.2795%)
+['not chasing', 'not approaching human'] => ['not moaning'] (Conf: 99.92%, Supp: 85.0810%)
+['Adult'] => ['not moaning'] (Conf: 99.92%, Supp: 84.8826%)
+['not twitching tail', 'not quaaing'] => ['not moaning'] (Conf: 99.92%, Supp: 84.1548%)
+['not approaching human', 'not chasing', 'not quaaing'] => ['not moaning'] (Conf: 99.92%, Supp: 83.9233%)
+['not kukking', 'not flagging tail', 'not chasing'] => ['not moaning'] (Conf: 99.92%, Supp: 83.8902%)
+['not kukking', 'not flagging tail', 'not chasing', 'not quaaing'] => ['not moaning'] (Conf: 99.92%, Supp: 83.1624%)
+['not kukking', 'not approaching human', 'not chasing'] => ['not moaning'] (Conf: 99.92%, Supp: 82.4677%)
+['not kukking', 'Adult'] => ['not moaning'] (Conf: 99.92%, Supp: 82.3685%)
+['not kukking', 'not chasing', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.92%, Supp: 81.7069%)
+['not kukking', 'not twitching tail', 'not quaaing'] => ['not moaning'] (Conf: 99.92%, Supp: 81.6077%)
+['not approaching human', 'not flagging tail', 'not chasing'] => ['not moaning'] (Conf: 99.92%, Supp: 81.0453%)
+['Adult', 'not flagging tail'] => ['not moaning'] (Conf: 99.92%, Supp: 80.5822%)
+['not chasing', 'not flagging tail', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.92%, Supp: 79.9868%)
+['Adult', 'not approaching human'] => ['not moaning'] (Conf: 99.92%, Supp: 79.8875%)
+['not twitching tail', 'not flagging tail', 'not quaaing'] => ['not moaning'] (Conf: 99.92%, Supp: 79.8875%)
+['not twitching tail', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.92%, Supp: 79.4244%)
+['not kukking', 'not chasing', 'not flagging tail', 'not approaching human'] => ['not moaning'] (Conf: 99.92%, Supp: 78.6967%)
+['not kukking', 'Adult', 'not flagging tail'] => ['not moaning'] (Conf: 99.92%, Supp: 78.3989%)
+['not flagging tail', 'not approaching human', 'not chasing', 'not quaaing', 'not kukking'] => ['not moaning'] (Conf: 99.92%, Supp: 77.9689%)
+['not twitching tail', 'not chasing'] => ['not moaning'] (Conf: 99.92%, Supp: 77.9027%)
+['not kukking', 'not twitching tail', 'not flagging tail', 'not quaaing'] => ['not moaning'] (Conf: 99.91%, Supp: 77.6381%)
+['not kukking', 'Adult', 'not approaching human'] => ['not moaning'] (Conf: 99.91%, Supp: 77.4727%)
+['not kukking', 'not twitching tail', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.91%, Supp: 76.9765%)
+['not twitching tail', 'not chasing', 'not quaaing'] => ['not moaning'] (Conf: 99.91%, Supp: 76.8773%)
+['not approaching human', 'Adult', 'not flagging tail'] => ['not moaning'] (Conf: 99.91%, Supp: 75.8849%)
+['not kukking', 'not twitching tail', 'not chasing'] => ['not moaning'] (Conf: 99.91%, Supp: 75.4548%)
+['not twitching tail', 'not flagging tail', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.91%, Supp: 75.4218%)
+['not kukking', 'not twitching tail', 'not chasing', 'not quaaing'] => ['not moaning'] (Conf: 99.91%, Supp: 74.7933%)
+['not running', 'not quaaing'] => ['not moaning'] (Conf: 99.91%, Supp: 74.4625%)
+['not twitching tail', 'not flagging tail', 'not chasing'] => ['not moaning'] (Conf: 99.91%, Supp: 74.0986%)
+['not approaching human', 'Adult', 'not flagging tail', 'not kukking'] => ['not moaning'] (Conf: 99.91%, Supp: 73.7678%)
+['not eating', 'not quaaing'] => ['not moaning'] (Conf: 99.91%, Supp: 73.3377%)
+['not approaching human', 'not twitching tail', 'not chasing'] => ['not moaning'] (Conf: 99.91%, Supp: 73.3047%)
+['not flagging tail', 'not approaching human', 'not quaaing', 'not kukking', 'not twitching tail'] => ['not moaning'] (Conf: 99.91%, Supp: 73.2385%)
+['not twitching tail', 'not flagging tail', 'not chasing', 'not quaaing'] => ['not moaning'] (Conf: 99.91%, Supp: 73.1393%)
+['not twitching tail', 'Adult'] => ['not moaning'] (Conf: 99.91%, Supp: 72.7423%)
+['not kukking', 'not running', 'not quaaing'] => ['not moaning'] (Conf: 99.91%, Supp: 72.2792%)
+['not twitching tail', 'not chasing', 'not approaching human', 'not quaaing'] => ['not moaning'] (Conf: 99.91%, Supp: 72.2792%)
+['not kukking', 'not twitching tail', 'not flagging tail', 'not chasing'] => ['not moaning'] (Conf: 99.91%, Supp: 71.8822%)
+['not flagging tail', 'not chasing', 'not quaaing', 'not kukking', 'not twitching tail'] => ['not moaning'] (Conf: 99.91%, Supp: 71.2537%)
+['not eating', 'not kukking', 'not quaaing'] => ['not moaning'] (Conf: 99.91%, Supp: 71.0552%)
+['not running', 'not flagging tail', 'not quaaing'] => ['not moaning'] (Conf: 99.91%, Supp: 70.9891%)
+['not twitching tail', 'not kukking', 'not chasing', 'not approaching human'] => ['not moaning'] (Conf: 99.91%, Supp: 70.9560%)
+['not kukking', 'not twitching tail', 'Adult'] => ['not moaning'] (Conf: 99.91%, Supp: 70.6583%)
+['not approaching human', 'not chasing', 'not quaaing', 'not kukking', 'not twitching tail'] => ['not moaning'] (Conf: 99.91%, Supp: 70.2944%)
+['not kukking'] => ['not moaning'] (Conf: 99.90%, Supp: 96.5266%)
+['not flagging tail'] => ['not moaning'] (Conf: 99.90%, Supp: 94.7734%)
+['not approaching human'] => ['not moaning'] (Conf: 99.89%, Supp: 94.0126%)
+['not kukking', 'not flagging tail'] => ['not moaning'] (Conf: 99.89%, Supp: 91.8293%)
+['not kukking', 'not approaching human'] => ['not moaning'] (Conf: 99.89%, Supp: 90.7708%)
+['not flagging tail', 'not approaching human'] => ['not moaning'] (Conf: 99.89%, Supp: 89.2160%)
+['not kukking', 'not flagging tail', 'not approaching human'] => ['not moaning'] (Conf: 99.89%, Supp: 86.3712%)
+['not twitching tail'] => ['not moaning'] (Conf: 99.88%, Supp: 85.5442%)
+['not kukking', 'not twitching tail'] => ['not moaning'] (Conf: 99.88%, Supp: 82.6331%)
+['not twitching tail', 'not flagging tail'] => ['not moaning'] (Conf: 99.88%, Supp: 81.0784%)
+['not twitching tail', 'not approaching human'] => ['not moaning'] (Conf: 99.88%, Supp: 80.8138%)
+['not kukking', 'not twitching tail', 'not flagging tail'] => ['not moaning'] (Conf: 99.87%, Supp: 78.4982%)
+['not kukking', 'not twitching tail', 'not approaching human'] => ['not moaning'] (Conf: 99.87%, Supp: 78.0020%)
+['not twitching tail', 'not flagging tail', 'not approaching human'] => ['not moaning'] (Conf: 99.87%, Supp: 76.6126%)
+['not running'] => ['not moaning'] (Conf: 99.87%, Supp: 75.7526%)
+['not eating'] => ['not moaning'] (Conf: 99.87%, Supp: 74.7602%)
+['not kukking', 'not twitching tail', 'not flagging tail', 'not approaching human'] => ['not moaning'] (Conf: 99.87%, Supp: 74.0986%)
+['not kukking', 'not running'] => ['not moaning'] (Conf: 99.86%, Supp: 73.1393%)
+['not running', 'not flagging tail'] => ['not moaning'] (Conf: 99.86%, Supp: 72.0476%)
+['not eating', 'not kukking'] => ['not moaning'] (Conf: 99.86%, Supp: 72.0146%)
+['not running', 'not approaching human'] => ['not moaning'] (Conf: 99.86%, Supp: 71.1214%)
+['not eating', 'not approaching human'] => ['not moaning'] (Conf: 99.86%, Supp: 71.0883%)
+['not eating', 'not flagging tail'] => ['not moaning'] (Conf: 99.86%, Supp: 70.9560%)
+['not kukking', 'not chasing', 'Adult', 'not flagging tail'] => ['not quaaing'] (Conf: 99.17%, Supp: 71.4191%)
+['Adult', 'not flagging tail', 'not chasing', 'not moaning', 'not kukking'] => ['not quaaing'] (Conf: 99.17%, Supp: 71.3860%)
+['not kukking', 'Adult', 'not chasing'] => ['not quaaing'] (Conf: 99.17%, Supp: 74.8263%)
+['not moaning', 'not kukking', 'Adult', 'not chasing'] => ['not quaaing'] (Conf: 99.17%, Supp: 74.7933%)
+['not kukking', 'not chasing'] => ['not quaaing'] (Conf: 99.14%, Supp: 87.2643%)
+['not moaning', 'not kukking', 'not chasing'] => ['not quaaing'] (Conf: 99.14%, Supp: 87.1981%)
+['not kukking', 'not flagging tail', 'not chasing'] => ['not quaaing'] (Conf: 99.13%, Supp: 83.2286%)
+['not moaning', 'not kukking', 'not flagging tail', 'not chasing'] => ['not quaaing'] (Conf: 99.13%, Supp: 83.1624%)
+['not kukking', 'not twitching tail', 'not flagging tail', 'not chasing'] => ['not quaaing'] (Conf: 99.13%, Supp: 71.3199%)
+['not flagging tail', 'not chasing', 'not moaning', 'not kukking', 'not twitching tail'] => ['not quaaing'] (Conf: 99.13%, Supp: 71.2537%)
+['not kukking', 'not twitching tail', 'not chasing'] => ['not quaaing'] (Conf: 99.12%, Supp: 74.8594%)
+['not moaning', 'not kukking', 'not twitching tail', 'not chasing'] => ['not quaaing'] (Conf: 99.12%, Supp: 74.7933%)
+['not approaching human', 'Adult', 'not chasing', 'not kukking'] => ['not quaaing'] (Conf: 99.11%, Supp: 70.0959%)
+['Adult', 'not approaching human', 'not chasing', 'not moaning', 'not kukking'] => ['not quaaing'] (Conf: 99.11%, Supp: 70.0629%)
+['not moaning', 'not kukking', 'not flagging tail', 'not climbing'] => ['not quaaing'] (Conf: 99.09%, Supp: 71.7168%)
+['not kukking', 'not approaching human', 'not chasing'] => ['not quaaing'] (Conf: 99.08%, Supp: 81.7731%)
+['not moaning', 'not kukking', 'not chasing', 'not approaching human'] => ['not quaaing'] (Conf: 99.08%, Supp: 81.7069%)
+['not kukking', 'not chasing', 'not flagging tail', 'not approaching human'] => ['not quaaing'] (Conf: 99.08%, Supp: 78.0351%)
+['not flagging tail', 'not approaching human', 'not chasing', 'not moaning', 'not kukking'] => ['not quaaing'] (Conf: 99.08%, Supp: 77.9689%)
+['not approaching human', 'not twitching tail', 'not kukking', 'not chasing'] => ['not quaaing'] (Conf: 99.07%, Supp: 70.3606%)
+['not approaching human', 'not chasing', 'not moaning', 'not kukking', 'not twitching tail'] => ['not quaaing'] (Conf: 99.07%, Supp: 70.2944%)
+['not kukking', 'not flagging tail', 'not climbing'] => ['not quaaing'] (Conf: 99.04%, Supp: 71.7168%)
+['not moaning', 'not kukking', 'Adult', 'not flagging tail'] => ['not quaaing'] (Conf: 99.03%, Supp: 77.6381%)
+['not kukking', 'Adult', 'not flagging tail'] => ['not quaaing'] (Conf: 98.99%, Supp: 77.6712%)
+['Adult', 'not flagging tail', 'not approaching human', 'not moaning', 'not kukking'] => ['not quaaing'] (Conf: 98.97%, Supp: 73.0069%)
+['not moaning', 'not kukking', 'not flagging tail'] => ['not quaaing'] (Conf: 98.96%, Supp: 90.8700%)
+['not moaning', 'not running from human', 'not flagging tail', 'not kukking'] => ['not quaaing'] (Conf: 98.94%, Supp: 71.2206%)
+['not approaching human', 'Adult', 'not flagging tail', 'not kukking'] => ['not quaaing'] (Conf: 98.92%, Supp: 73.0400%)
+['not kukking', 'not flagging tail'] => ['not quaaing'] (Conf: 98.92%, Supp: 90.9362%)
+['not moaning', 'not kukking', 'not climbing'] => ['not quaaing'] (Conf: 98.91%, Supp: 75.3556%)
+['not moaning', 'not kukking', 'not twitching tail', 'not flagging tail'] => ['not quaaing'] (Conf: 98.90%, Supp: 77.6381%)
+['not kukking', 'not running from human', 'not flagging tail'] => ['not quaaing'] (Conf: 98.90%, Supp: 71.2206%)
+['not moaning', 'not kukking', 'not flagging tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.89%, Supp: 85.4118%)
+['not chasing', 'Adult', 'not flagging tail'] => ['not quaaing'] (Conf: 98.88%, Supp: 72.9408%)
+['not moaning', 'not chasing', 'Adult', 'not flagging tail'] => ['not quaaing'] (Conf: 98.88%, Supp: 72.9077%)
+['not moaning', 'not kukking', 'Adult'] => ['not quaaing'] (Conf: 98.88%, Supp: 81.4423%)
+['not kukking', 'not climbing'] => ['not quaaing'] (Conf: 98.87%, Supp: 75.3556%)
+['not kukking', 'not twitching tail', 'not flagging tail'] => ['not quaaing'] (Conf: 98.86%, Supp: 77.7043%)
+['not kukking', 'not flagging tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.85%, Supp: 85.4780%)
+['Adult', 'not chasing'] => ['not quaaing'] (Conf: 98.85%, Supp: 76.5465%)
+['not moaning', 'Adult', 'not chasing'] => ['not quaaing'] (Conf: 98.85%, Supp: 76.5134%)
+['not moaning', 'not kukking', 'not approaching human', 'not climbing'] => ['not quaaing'] (Conf: 98.84%, Supp: 70.4598%)
+['not flagging tail', 'not approaching human', 'not moaning', 'not kukking', 'not twitching tail'] => ['not quaaing'] (Conf: 98.84%, Supp: 73.2385%)
+['not kukking', 'Adult'] => ['not quaaing'] (Conf: 98.84%, Supp: 81.4754%)
+['not moaning', 'not kukking'] => ['not quaaing'] (Conf: 98.83%, Supp: 95.4019%)
+['not moaning', 'not kukking', 'not running'] => ['not quaaing'] (Conf: 98.82%, Supp: 72.2792%)
+['not moaning', 'not kukking', 'Adult', 'not approaching human'] => ['not quaaing'] (Conf: 98.80%, Supp: 76.5465%)
+['not kukking'] => ['not quaaing'] (Conf: 98.80%, Supp: 95.4681%)
+['not kukking', 'not twitching tail', 'not flagging tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.80%, Supp: 73.3047%)
+['not kukking', 'not approaching human', 'not climbing'] => ['not quaaing'] (Conf: 98.79%, Supp: 70.4598%)
+['not kukking', 'not running'] => ['not quaaing'] (Conf: 98.78%, Supp: 72.3454%)
+['not flagging tail', 'not chasing'] => ['not quaaing'] (Conf: 98.77%, Supp: 85.3457%)
+['not moaning', 'not flagging tail', 'not chasing'] => ['not quaaing'] (Conf: 98.77%, Supp: 85.2795%)
+['not approaching human', 'Adult', 'not chasing'] => ['not quaaing'] (Conf: 98.77%, Supp: 71.7168%)
+['not moaning', 'not chasing', 'Adult', 'not approaching human'] => ['not quaaing'] (Conf: 98.77%, Supp: 71.6838%)
+['not moaning', 'not kukking', 'not running from human'] => ['not quaaing'] (Conf: 98.77%, Supp: 74.2640%)
+['not kukking', 'Adult', 'not approaching human'] => ['not quaaing'] (Conf: 98.76%, Supp: 76.5796%)
+['not moaning', 'not kukking', 'not approaching human'] => ['not quaaing'] (Conf: 98.76%, Supp: 89.6460%)
+['not moaning', 'not kukking', 'not twitching tail'] => ['not quaaing'] (Conf: 98.76%, Supp: 81.6077%)
+['not moaning', 'not flagging tail', 'not climbing'] => ['not quaaing'] (Conf: 98.75%, Supp: 73.1723%)
+['not kukking', 'not approaching human'] => ['not quaaing'] (Conf: 98.73%, Supp: 89.7122%)
+['not kukking', 'not running from human'] => ['not quaaing'] (Conf: 98.72%, Supp: 74.2640%)
+['not chasing'] => ['not quaaing'] (Conf: 98.72%, Supp: 89.6130%)
+['not moaning', 'not chasing'] => ['not quaaing'] (Conf: 98.72%, Supp: 89.5468%)
+['not kukking', 'not twitching tail'] => ['not quaaing'] (Conf: 98.72%, Supp: 81.6738%)
+['not twitching tail', 'not flagging tail', 'not chasing'] => ['not quaaing'] (Conf: 98.71%, Supp: 73.2054%)
+['not flagging tail', 'not climbing'] => ['not quaaing'] (Conf: 98.71%, Supp: 73.1723%)
+['not moaning', 'not twitching tail', 'not flagging tail', 'not chasing'] => ['not quaaing'] (Conf: 98.71%, Supp: 73.1393%)
+['not chasing', 'not flagging tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.69%, Supp: 80.0529%)
+['not moaning', 'not chasing', 'not flagging tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.69%, Supp: 79.9868%)
+['not moaning', 'Adult', 'not flagging tail'] => ['not quaaing'] (Conf: 98.69%, Supp: 79.5237%)
+['not moaning', 'not kukking', 'not twitching tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.69%, Supp: 76.9765%)
+['not twitching tail', 'not chasing'] => ['not quaaing'] (Conf: 98.68%, Supp: 76.9434%)
+['not moaning', 'not twitching tail', 'not chasing'] => ['not quaaing'] (Conf: 98.68%, Supp: 76.8773%)
+['not moaning', 'not eating', 'not kukking'] => ['not quaaing'] (Conf: 98.67%, Supp: 71.0552%)
+['Adult', 'not flagging tail'] => ['not quaaing'] (Conf: 98.65%, Supp: 79.5567%)
+['not kukking', 'not twitching tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.64%, Supp: 77.0427%)
+['not approaching human', 'not chasing'] => ['not quaaing'] (Conf: 98.64%, Supp: 83.9894%)
+['not moaning', 'not approaching human', 'not chasing'] => ['not quaaing'] (Conf: 98.64%, Supp: 83.9233%)
+['not eating', 'not kukking'] => ['not quaaing'] (Conf: 98.62%, Supp: 71.1214%)
+['not moaning', 'not approaching human', 'Adult', 'not flagging tail'] => ['not quaaing'] (Conf: 98.61%, Supp: 74.8263%)
+['not approaching human', 'not twitching tail', 'not chasing'] => ['not quaaing'] (Conf: 98.60%, Supp: 72.3454%)
+['not twitching tail', 'not moaning', 'not chasing', 'not approaching human'] => ['not quaaing'] (Conf: 98.60%, Supp: 72.2792%)
+['not moaning', 'not running from human', 'not flagging tail'] => ['not quaaing'] (Conf: 98.57%, Supp: 73.0069%)
+['not moaning', 'not flagging tail'] => ['not quaaing'] (Conf: 98.57%, Supp: 93.4171%)
+['not approaching human', 'Adult', 'not flagging tail'] => ['not quaaing'] (Conf: 98.56%, Supp: 74.8594%)
+['not flagging tail'] => ['not quaaing'] (Conf: 98.54%, Supp: 93.4833%)
+['not moaning', 'not twitching tail', 'not flagging tail'] => ['not quaaing'] (Conf: 98.53%, Supp: 79.8875%)
+['not moaning', 'not running', 'not flagging tail'] => ['not quaaing'] (Conf: 98.53%, Supp: 70.9891%)
+['not running from human', 'not flagging tail'] => ['not quaaing'] (Conf: 98.53%, Supp: 73.0069%)
+['not moaning', 'not climbing'] => ['not quaaing'] (Conf: 98.52%, Supp: 77.0427%)
+['not moaning', 'not twitching tail', 'Adult'] => ['not quaaing'] (Conf: 98.50%, Supp: 71.6507%)
+['not twitching tail', 'not flagging tail'] => ['not quaaing'] (Conf: 98.49%, Supp: 79.9537%)
+['not flagging tail', 'not running'] => ['not quaaing'] (Conf: 98.49%, Supp: 71.0552%)
+['not moaning', 'Adult'] => ['not quaaing'] (Conf: 98.48%, Supp: 83.5925%)
+['not moaning', 'not flagging tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.48%, Supp: 87.8597%)
+['not climbing'] => ['not quaaing'] (Conf: 98.48%, Supp: 77.0427%)
+['not twitching tail', 'Adult'] => ['not quaaing'] (Conf: 98.46%, Supp: 71.6838%)
+['not moaning', 'not twitching tail', 'not flagging tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.45%, Supp: 75.4218%)
+['not flagging tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.44%, Supp: 87.9259%)
+['Adult'] => ['not quaaing'] (Conf: 98.44%, Supp: 83.6255%)
+['not moaning', 'not approaching human', 'not climbing'] => ['not quaaing'] (Conf: 98.42%, Supp: 72.0476%)
+['not twitching tail', 'not flagging tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.40%, Supp: 75.4879%)
+['not moaning', 'Adult', 'not approaching human'] => ['not quaaing'] (Conf: 98.39%, Supp: 78.5974%)
+['not moaning'] => ['not quaaing'] (Conf: 98.38%, Supp: 98.2799%)
+['not moaning', 'not twitching tail'] => ['not quaaing'] (Conf: 98.38%, Supp: 84.1548%)
+['not approaching human', 'not climbing'] => ['not quaaing'] (Conf: 98.37%, Supp: 72.0476%)
+['Adult', 'not approaching human'] => ['not quaaing'] (Conf: 98.35%, Supp: 78.6305%)
+['not twitching tail'] => ['not quaaing'] (Conf: 98.34%, Supp: 84.2210%)
+['not moaning', 'not running'] => ['not quaaing'] (Conf: 98.30%, Supp: 74.4625%)
+['not moaning', 'not running from human'] => ['not quaaing'] (Conf: 98.29%, Supp: 76.2157%)
+['not moaning', 'not twitching tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.28%, Supp: 79.4244%)
+['not moaning', 'not approaching human'] => ['not quaaing'] (Conf: 98.28%, Supp: 92.3917%)
+['not running'] => ['not quaaing'] (Conf: 98.26%, Supp: 74.5286%)
+['not running from human'] => ['not quaaing'] (Conf: 98.25%, Supp: 76.2157%)
+['not approaching human'] => ['not quaaing'] (Conf: 98.24%, Supp: 92.4578%)
+['not twitching tail', 'not approaching human'] => ['not quaaing'] (Conf: 98.24%, Supp: 79.4906%)
+['not moaning', 'not running from human', 'not approaching human'] => ['not quaaing'] (Conf: 98.17%, Supp: 70.9891%)
+['not running from human', 'not approaching human'] => ['not quaaing'] (Conf: 98.13%, Supp: 70.9891%)
+['not moaning', 'not eating'] => ['not quaaing'] (Conf: 98.10%, Supp: 73.3377%)
+['not eating'] => ['not quaaing'] (Conf: 98.06%, Supp: 73.4039%)
+['not flagging tail', 'not climbing', 'not quaaing'] => ['not kukking'] (Conf: 98.01%, Supp: 71.7168%)
+['not moaning', 'not flagging tail', 'not climbing', 'not quaaing'] => ['not kukking'] (Conf: 98.01%, Supp: 71.7168%)
+['not chasing', 'Adult', 'not flagging tail', 'not quaaing'] => ['not kukking'] (Conf: 97.91%, Supp: 71.4191%)
+['Adult', 'not flagging tail', 'not chasing', 'not quaaing', 'not moaning'] => ['not kukking'] (Conf: 97.91%, Supp: 71.3860%)
+['not climbing', 'not quaaing'] => ['not kukking'] (Conf: 97.81%, Supp: 75.3556%)
+['not moaning', 'not climbing', 'not quaaing'] => ['not kukking'] (Conf: 97.81%, Supp: 75.3556%)
+['not approaching human', 'not climbing', 'not quaaing'] => ['not kukking'] (Conf: 97.80%, Supp: 70.4598%)
+['not moaning', 'not approaching human', 'not quaaing', 'not climbing'] => ['not kukking'] (Conf: 97.80%, Supp: 70.4598%)
+['Adult', 'not chasing', 'not quaaing'] => ['not kukking'] (Conf: 97.75%, Supp: 74.8263%)
+['not moaning', 'Adult', 'not chasing', 'not quaaing'] => ['not kukking'] (Conf: 97.75%, Supp: 74.7933%)
+['not approaching human', 'Adult', 'not chasing', 'not quaaing'] => ['not kukking'] (Conf: 97.74%, Supp: 70.0959%)
+['Adult', 'not approaching human', 'not chasing', 'not quaaing', 'not moaning'] => ['not kukking'] (Conf: 97.74%, Supp: 70.0629%)
+['not flagging tail', 'not climbing'] => ['not kukking'] (Conf: 97.68%, Supp: 72.4115%)
+['not moaning', 'not flagging tail', 'not climbing'] => ['not kukking'] (Conf: 97.68%, Supp: 72.3784%)
+['Adult', 'not flagging tail', 'not quaaing'] => ['not kukking'] (Conf: 97.63%, Supp: 77.6712%)
+['not moaning', 'Adult', 'not flagging tail', 'not quaaing'] => ['not kukking'] (Conf: 97.63%, Supp: 77.6381%)
+['not chasing', 'Adult', 'not flagging tail'] => ['not kukking'] (Conf: 97.62%, Supp: 72.0146%)
+['not moaning', 'not chasing', 'Adult', 'not flagging tail'] => ['not kukking'] (Conf: 97.62%, Supp: 71.9815%)
+['not approaching human', 'Adult', 'not flagging tail', 'not quaaing'] => ['not kukking'] (Conf: 97.57%, Supp: 73.0400%)
+['Adult', 'not flagging tail', 'not approaching human', 'not quaaing', 'not moaning'] => ['not kukking'] (Conf: 97.57%, Supp: 73.0069%)
+['not running from human', 'not flagging tail', 'not quaaing'] => ['not kukking'] (Conf: 97.55%, Supp: 71.2206%)
+['not moaning', 'not running from human', 'not flagging tail', 'not quaaing'] => ['not kukking'] (Conf: 97.55%, Supp: 71.2206%)
+['not flagging tail', 'not chasing', 'not quaaing'] => ['not kukking'] (Conf: 97.52%, Supp: 83.2286%)
+['not moaning', 'not flagging tail', 'not chasing', 'not quaaing'] => ['not kukking'] (Conf: 97.52%, Supp: 83.1624%)
+['not chasing', 'not flagging tail', 'not approaching human', 'not quaaing'] => ['not kukking'] (Conf: 97.48%, Supp: 78.0351%)
+['not flagging tail', 'not approaching human', 'not chasing', 'not quaaing', 'not moaning'] => ['not kukking'] (Conf: 97.48%, Supp: 77.9689%)
+['not running from human', 'not quaaing'] => ['not kukking'] (Conf: 97.44%, Supp: 74.2640%)
+['not moaning', 'not running from human', 'not quaaing'] => ['not kukking'] (Conf: 97.44%, Supp: 74.2640%)
+['Adult', 'not chasing'] => ['not kukking'] (Conf: 97.44%, Supp: 75.4548%)
+['not moaning', 'Adult', 'not chasing'] => ['not kukking'] (Conf: 97.44%, Supp: 75.4218%)
+['Adult', 'not quaaing'] => ['not kukking'] (Conf: 97.43%, Supp: 81.4754%)
+['not moaning', 'Adult', 'not quaaing'] => ['not kukking'] (Conf: 97.43%, Supp: 81.4423%)
+['not twitching tail', 'not flagging tail', 'not chasing', 'not quaaing'] => ['not kukking'] (Conf: 97.42%, Supp: 71.3199%)
+['not flagging tail', 'not chasing', 'not quaaing', 'not moaning', 'not twitching tail'] => ['not kukking'] (Conf: 97.42%, Supp: 71.2537%)
+['not climbing'] => ['not kukking'] (Conf: 97.42%, Supp: 76.2157%)
+['not moaning', 'not climbing'] => ['not kukking'] (Conf: 97.42%, Supp: 76.1826%)
+['not chasing', 'Adult', 'not approaching human'] => ['not kukking'] (Conf: 97.40%, Supp: 70.7244%)
+['not moaning', 'not chasing', 'Adult', 'not approaching human'] => ['not kukking'] (Conf: 97.40%, Supp: 70.6914%)
+['Adult', 'not approaching human', 'not quaaing'] => ['not kukking'] (Conf: 97.39%, Supp: 76.5796%)
+['not moaning', 'Adult', 'not approaching human', 'not quaaing'] => ['not kukking'] (Conf: 97.39%, Supp: 76.5465%)
+['not approaching human', 'not climbing'] => ['not kukking'] (Conf: 97.38%, Supp: 71.3199%)
+['not moaning', 'not approaching human', 'not climbing'] => ['not kukking'] (Conf: 97.38%, Supp: 71.2868%)
+['not chasing', 'not quaaing'] => ['not kukking'] (Conf: 97.38%, Supp: 87.2643%)
+['not moaning', 'not chasing', 'not quaaing'] => ['not kukking'] (Conf: 97.38%, Supp: 87.1981%)
+['not approaching human', 'not chasing', 'not quaaing'] => ['not kukking'] (Conf: 97.36%, Supp: 81.7731%)
+['not moaning', 'not chasing', 'not approaching human', 'not quaaing'] => ['not kukking'] (Conf: 97.36%, Supp: 81.7069%)
+['Adult', 'not flagging tail'] => ['not kukking'] (Conf: 97.29%, Supp: 78.4651%)
+['not twitching tail', 'not chasing', 'not quaaing'] => ['not kukking'] (Conf: 97.29%, Supp: 74.8594%)
+['not moaning', 'Adult', 'not flagging tail'] => ['not kukking'] (Conf: 97.29%, Supp: 78.3989%)
+['not moaning', 'not twitching tail', 'not chasing', 'not quaaing'] => ['not kukking'] (Conf: 97.29%, Supp: 74.7933%)
+['not flagging tail', 'not quaaing'] => ['not kukking'] (Conf: 97.28%, Supp: 90.9362%)
+['not moaning', 'not flagging tail', 'not quaaing'] => ['not kukking'] (Conf: 97.27%, Supp: 90.8700%)
+['not approaching human', 'not twitching tail', 'not chasing', 'not quaaing'] => ['not kukking'] (Conf: 97.26%, Supp: 70.3606%)
+['not approaching human', 'not chasing', 'not quaaing', 'not moaning', 'not twitching tail'] => ['not kukking'] (Conf: 97.25%, Supp: 70.2944%)
+['not flagging tail', 'not approaching human', 'not quaaing'] => ['not kukking'] (Conf: 97.22%, Supp: 85.4780%)
+['not moaning', 'not flagging tail', 'not approaching human', 'not quaaing'] => ['not kukking'] (Conf: 97.21%, Supp: 85.4118%)
+['not approaching human', 'Adult', 'not flagging tail'] => ['not kukking'] (Conf: 97.21%, Supp: 73.8339%)
+['not moaning', 'not approaching human', 'Adult', 'not flagging tail'] => ['not kukking'] (Conf: 97.21%, Supp: 73.7678%)
+['not running from human', 'not flagging tail'] => ['not kukking'] (Conf: 97.19%, Supp: 72.0146%)
+['not twitching tail', 'not flagging tail', 'not quaaing'] => ['not kukking'] (Conf: 97.19%, Supp: 77.7043%)
+['not moaning', 'not running from human', 'not flagging tail'] => ['not kukking'] (Conf: 97.19%, Supp: 71.9815%)
+['not moaning', 'not twitching tail', 'not flagging tail', 'not quaaing'] => ['not kukking'] (Conf: 97.18%, Supp: 77.6381%)
+['not flagging tail', 'not chasing'] => ['not kukking'] (Conf: 97.17%, Supp: 83.9563%)
+['not moaning', 'not flagging tail', 'not chasing'] => ['not kukking'] (Conf: 97.16%, Supp: 83.8902%)
+['not twitching tail', 'Adult'] => ['not kukking'] (Conf: 97.14%, Supp: 70.7244%)
+['not moaning', 'not twitching tail', 'Adult'] => ['not kukking'] (Conf: 97.14%, Supp: 70.6583%)
+['not twitching tail', 'not flagging tail', 'not approaching human', 'not quaaing'] => ['not kukking'] (Conf: 97.11%, Supp: 73.3047%)
+['not flagging tail', 'not approaching human', 'not quaaing', 'not moaning', 'not twitching tail'] => ['not kukking'] (Conf: 97.11%, Supp: 73.2385%)
+['not chasing', 'not flagging tail', 'not approaching human'] => ['not kukking'] (Conf: 97.10%, Supp: 78.7628%)
+['not moaning', 'not chasing', 'not flagging tail', 'not approaching human'] => ['not kukking'] (Conf: 97.10%, Supp: 78.6967%)
+['not quaaing'] => ['not kukking'] (Conf: 97.07%, Supp: 95.4681%)
+['not moaning', 'not quaaing'] => ['not kukking'] (Conf: 97.07%, Supp: 95.4019%)
+['not running', 'not quaaing'] => ['not kukking'] (Conf: 97.07%, Supp: 72.3454%)
+['not moaning', 'not running', 'not quaaing'] => ['not kukking'] (Conf: 97.07%, Supp: 72.2792%)
+['Adult'] => ['not kukking'] (Conf: 97.04%, Supp: 82.4347%)
+['not moaning', 'Adult'] => ['not kukking'] (Conf: 97.04%, Supp: 82.3685%)
+['not approaching human', 'not quaaing'] => ['not kukking'] (Conf: 97.03%, Supp: 89.7122%)
+['not moaning', 'not approaching human', 'not quaaing'] => ['not kukking'] (Conf: 97.03%, Supp: 89.6460%)
+['not twitching tail', 'not flagging tail', 'not chasing'] => ['not kukking'] (Conf: 97.01%, Supp: 71.9484%)
+['not moaning', 'not twitching tail', 'not flagging tail', 'not chasing'] => ['not kukking'] (Conf: 97.01%, Supp: 71.8822%)
+['Adult', 'not approaching human'] => ['not kukking'] (Conf: 96.98%, Supp: 77.5389%)
+['not moaning', 'Adult', 'not approaching human'] => ['not kukking'] (Conf: 96.98%, Supp: 77.4727%)
+['not twitching tail', 'not quaaing'] => ['not kukking'] (Conf: 96.98%, Supp: 81.6738%)
+['not chasing'] => ['not kukking'] (Conf: 96.98%, Supp: 88.0251%)
+['not moaning', 'not twitching tail', 'not quaaing'] => ['not kukking'] (Conf: 96.97%, Supp: 81.6077%)
+['not moaning', 'not chasing'] => ['not kukking'] (Conf: 96.97%, Supp: 87.9590%)
+['not running from human'] => ['not kukking'] (Conf: 96.97%, Supp: 75.2233%)
+['not moaning', 'not running from human'] => ['not kukking'] (Conf: 96.97%, Supp: 75.1902%)
+['not chasing', 'not approaching human'] => ['not kukking'] (Conf: 96.93%, Supp: 82.5339%)
+['not moaning', 'not approaching human', 'not chasing'] => ['not kukking'] (Conf: 96.93%, Supp: 82.4677%)
+['not twitching tail', 'not approaching human', 'not quaaing'] => ['not kukking'] (Conf: 96.92%, Supp: 77.0427%)
+['not moaning', 'not twitching tail', 'not approaching human', 'not quaaing'] => ['not kukking'] (Conf: 96.92%, Supp: 76.9765%)
+['not flagging tail'] => ['not kukking'] (Conf: 96.90%, Supp: 91.9285%)
+['not moaning', 'not flagging tail'] => ['not kukking'] (Conf: 96.89%, Supp: 91.8293%)
+['not running from human', 'not approaching human'] => ['not kukking'] (Conf: 96.89%, Supp: 70.0959%)
+['not eating', 'not quaaing'] => ['not kukking'] (Conf: 96.89%, Supp: 71.1214%)
+['not moaning', 'not running from human', 'not approaching human'] => ['not kukking'] (Conf: 96.89%, Supp: 70.0629%)
+['not moaning', 'not eating', 'not quaaing'] => ['not kukking'] (Conf: 96.89%, Supp: 71.0552%)
+['not twitching tail', 'not chasing'] => ['not kukking'] (Conf: 96.86%, Supp: 75.5210%)
+['not moaning', 'not twitching tail', 'not chasing'] => ['not kukking'] (Conf: 96.86%, Supp: 75.4548%)
+['not twitching tail', 'not flagging tail'] => ['not kukking'] (Conf: 96.82%, Supp: 78.5974%)
+['not moaning', 'not twitching tail', 'not flagging tail'] => ['not kukking'] (Conf: 96.82%, Supp: 78.4982%)
+['not flagging tail', 'not approaching human'] => ['not kukking'] (Conf: 96.81%, Supp: 86.4704%)
+['not moaning', 'not flagging tail', 'not approaching human'] => ['not kukking'] (Conf: 96.81%, Supp: 86.3712%)
+['not approaching human', 'not twitching tail', 'not chasing'] => ['not kukking'] (Conf: 96.80%, Supp: 71.0222%)
+['not twitching tail', 'not moaning', 'not chasing', 'not approaching human'] => ['not kukking'] (Conf: 96.80%, Supp: 70.9560%)
+['not twitching tail', 'not flagging tail', 'not approaching human'] => ['not kukking'] (Conf: 96.72%, Supp: 74.1978%)
+['not moaning', 'not twitching tail', 'not flagging tail', 'not approaching human'] => ['not kukking'] (Conf: 96.72%, Supp: 74.0986%)
+['not moaning'] => ['not kukking'] (Conf: 96.62%, Supp: 96.5266%)
+['not twitching tail'] => ['not kukking'] (Conf: 96.60%, Supp: 82.7324%)
+['not moaning', 'not twitching tail'] => ['not kukking'] (Conf: 96.60%, Supp: 82.6331%)
+['not approaching human'] => ['not kukking'] (Conf: 96.56%, Supp: 90.8700%)
+['not running'] => ['not kukking'] (Conf: 96.55%, Supp: 73.2385%)
+['not moaning', 'not approaching human'] => ['not kukking'] (Conf: 96.55%, Supp: 90.7708%)
+['not moaning', 'not running'] => ['not kukking'] (Conf: 96.55%, Supp: 73.1393%)
+['not twitching tail', 'not approaching human'] => ['not kukking'] (Conf: 96.52%, Supp: 78.1012%)
+['not moaning', 'not twitching tail', 'not approaching human'] => ['not kukking'] (Conf: 96.52%, Supp: 78.0020%)
+['not eating'] => ['not kukking'] (Conf: 96.33%, Supp: 72.1138%)
+['not moaning', 'not eating'] => ['not kukking'] (Conf: 96.33%, Supp: 72.0146%)
+['not kukking', 'not running from human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.90%, Supp: 71.2206%)
+['not moaning', 'not running from human', 'not kukking', 'not quaaing'] => ['not flagging tail'] (Conf: 95.90%, Supp: 71.2206%)
+['not running from human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.79%, Supp: 73.0069%)
+['not moaning', 'not running from human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.79%, Supp: 73.0069%)
+['not kukking', 'not running from human'] => ['not flagging tail'] (Conf: 95.73%, Supp: 72.0146%)
+['not moaning', 'not running from human', 'not kukking'] => ['not flagging tail'] (Conf: 95.73%, Supp: 71.9815%)
+['not running from human'] => ['not flagging tail'] (Conf: 95.52%, Supp: 74.0986%)
+['not moaning', 'not running from human'] => ['not flagging tail'] (Conf: 95.52%, Supp: 74.0655%)
+['not kukking', 'Adult', 'not chasing', 'not quaaing'] => ['not flagging tail'] (Conf: 95.45%, Supp: 71.4191%)
+['Adult', 'not chasing', 'not quaaing', 'not moaning', 'not kukking'] => ['not flagging tail'] (Conf: 95.44%, Supp: 71.3860%)
+['not kukking', 'Adult', 'not chasing'] => ['not flagging tail'] (Conf: 95.44%, Supp: 72.0146%)
+['not moaning', 'not kukking', 'Adult', 'not chasing'] => ['not flagging tail'] (Conf: 95.44%, Supp: 71.9815%)
+['not kukking', 'not chasing', 'not approaching human'] => ['not flagging tail'] (Conf: 95.43%, Supp: 78.7628%)
+['not kukking', 'not chasing', 'not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.43%, Supp: 78.0351%)
+['not moaning', 'not kukking', 'not chasing', 'not approaching human'] => ['not flagging tail'] (Conf: 95.43%, Supp: 78.6967%)
+['not approaching human', 'not chasing', 'not quaaing', 'not moaning', 'not kukking'] => ['not flagging tail'] (Conf: 95.43%, Supp: 77.9689%)
+['not kukking', 'Adult', 'not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.38%, Supp: 73.0400%)
+['not kukking', 'not chasing'] => ['not flagging tail'] (Conf: 95.38%, Supp: 83.9563%)
+['Adult', 'not approaching human', 'not quaaing', 'not moaning', 'not kukking'] => ['not flagging tail'] (Conf: 95.38%, Supp: 73.0069%)
+['not kukking', 'not chasing', 'not quaaing'] => ['not flagging tail'] (Conf: 95.38%, Supp: 83.2286%)
+['not moaning', 'not kukking', 'not chasing'] => ['not flagging tail'] (Conf: 95.37%, Supp: 83.8902%)
+['not moaning', 'not kukking', 'not chasing', 'not quaaing'] => ['not flagging tail'] (Conf: 95.37%, Supp: 83.1624%)
+['not running', 'not quaaing'] => ['not flagging tail'] (Conf: 95.34%, Supp: 71.0552%)
+['not moaning', 'not running', 'not quaaing'] => ['not flagging tail'] (Conf: 95.34%, Supp: 70.9891%)
+['not kukking', 'Adult', 'not quaaing'] => ['not flagging tail'] (Conf: 95.33%, Supp: 77.6712%)
+['not moaning', 'not kukking', 'Adult', 'not quaaing'] => ['not flagging tail'] (Conf: 95.33%, Supp: 77.6381%)
+['not chasing', 'not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.31%, Supp: 80.0529%)
+['not moaning', 'not chasing', 'not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.31%, Supp: 79.9868%)
+['Adult', 'not chasing', 'not quaaing'] => ['not flagging tail'] (Conf: 95.29%, Supp: 72.9408%)
+['not moaning', 'Adult', 'not chasing', 'not quaaing'] => ['not flagging tail'] (Conf: 95.29%, Supp: 72.9077%)
+['not kukking', 'not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.28%, Supp: 85.4780%)
+['not moaning', 'not kukking', 'not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.28%, Supp: 85.4118%)
+['not kukking', 'not twitching tail', 'not chasing', 'not quaaing'] => ['not flagging tail'] (Conf: 95.27%, Supp: 71.3199%)
+['not kukking', 'not twitching tail', 'not chasing'] => ['not flagging tail'] (Conf: 95.27%, Supp: 71.9484%)
+['not chasing', 'not quaaing', 'not moaning', 'not kukking', 'not twitching tail'] => ['not flagging tail'] (Conf: 95.27%, Supp: 71.2537%)
+['not moaning', 'not kukking', 'not twitching tail', 'not chasing'] => ['not flagging tail'] (Conf: 95.27%, Supp: 71.8822%)
+['not approaching human', 'not chasing'] => ['not flagging tail'] (Conf: 95.26%, Supp: 81.1115%)
+['Adult', 'not chasing'] => ['not flagging tail'] (Conf: 95.26%, Supp: 73.7678%)
+['not moaning', 'not approaching human', 'not chasing'] => ['not flagging tail'] (Conf: 95.26%, Supp: 81.0453%)
+['not moaning', 'Adult', 'not chasing'] => ['not flagging tail'] (Conf: 95.26%, Supp: 73.7347%)
+['not kukking', 'not quaaing'] => ['not flagging tail'] (Conf: 95.25%, Supp: 90.9362%)
+['not moaning', 'not kukking', 'not quaaing'] => ['not flagging tail'] (Conf: 95.25%, Supp: 90.8700%)
+['not chasing', 'not quaaing'] => ['not flagging tail'] (Conf: 95.24%, Supp: 85.3457%)
+['not moaning', 'not chasing', 'not quaaing'] => ['not flagging tail'] (Conf: 95.23%, Supp: 85.2795%)
+['not kukking', 'Adult', 'not approaching human'] => ['not flagging tail'] (Conf: 95.22%, Supp: 73.8339%)
+['not moaning', 'not kukking', 'Adult', 'not approaching human'] => ['not flagging tail'] (Conf: 95.22%, Supp: 73.7678%)
+['Adult', 'not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.20%, Supp: 74.8594%)
+['not moaning', 'Adult', 'not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.20%, Supp: 74.8263%)
+['not chasing'] => ['not flagging tail'] (Conf: 95.19%, Supp: 86.4042%)
+['not moaning', 'not chasing'] => ['not flagging tail'] (Conf: 95.19%, Supp: 86.3381%)
+['not kukking', 'Adult'] => ['not flagging tail'] (Conf: 95.18%, Supp: 78.4651%)
+['not moaning', 'not kukking', 'Adult'] => ['not flagging tail'] (Conf: 95.18%, Supp: 78.3989%)
+['not kukking', 'not climbing', 'not quaaing'] => ['not flagging tail'] (Conf: 95.17%, Supp: 71.7168%)
+['not moaning', 'not kukking', 'not climbing', 'not quaaing'] => ['not flagging tail'] (Conf: 95.17%, Supp: 71.7168%)
+['not kukking', 'not approaching human'] => ['not flagging tail'] (Conf: 95.16%, Supp: 86.4704%)
+['not moaning', 'not kukking', 'not approaching human'] => ['not flagging tail'] (Conf: 95.15%, Supp: 86.3712%)
+['not kukking', 'not twitching tail', 'not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.15%, Supp: 73.3047%)
+['not approaching human', 'not quaaing', 'not moaning', 'not kukking', 'not twitching tail'] => ['not flagging tail'] (Conf: 95.14%, Supp: 73.2385%)
+['not twitching tail', 'not chasing', 'not quaaing'] => ['not flagging tail'] (Conf: 95.14%, Supp: 73.2054%)
+['not kukking', 'not twitching tail', 'not quaaing'] => ['not flagging tail'] (Conf: 95.14%, Supp: 77.7043%)
+['not kukking'] => ['not flagging tail'] (Conf: 95.14%, Supp: 91.9285%)
+['not moaning', 'not twitching tail', 'not chasing', 'not quaaing'] => ['not flagging tail'] (Conf: 95.14%, Supp: 73.1393%)
+['not moaning', 'not kukking', 'not twitching tail', 'not quaaing'] => ['not flagging tail'] (Conf: 95.14%, Supp: 77.6381%)
+['Adult', 'not quaaing'] => ['not flagging tail'] (Conf: 95.13%, Supp: 79.5567%)
+['not moaning', 'not kukking'] => ['not flagging tail'] (Conf: 95.13%, Supp: 91.8293%)
+['not moaning', 'Adult', 'not quaaing'] => ['not flagging tail'] (Conf: 95.13%, Supp: 79.5237%)
+['not twitching tail', 'not chasing'] => ['not flagging tail'] (Conf: 95.12%, Supp: 74.1647%)
+['not moaning', 'not twitching tail', 'not chasing'] => ['not flagging tail'] (Conf: 95.12%, Supp: 74.0986%)
+['not running'] => ['not flagging tail'] (Conf: 95.12%, Supp: 72.1469%)
+['not moaning', 'not running'] => ['not flagging tail'] (Conf: 95.11%, Supp: 72.0476%)
+['not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.10%, Supp: 87.9259%)
+['not eating'] => ['not approaching human'] (Conf: 95.10%, Supp: 71.1876%)
+['not moaning', 'not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 95.09%, Supp: 87.8597%)
+['not moaning', 'not eating'] => ['not approaching human'] (Conf: 95.09%, Supp: 71.0883%)
+['not quaaing'] => ['not flagging tail'] (Conf: 95.06%, Supp: 93.4833%)
+['not moaning', 'not quaaing'] => ['not flagging tail'] (Conf: 95.05%, Supp: 93.4171%)
+['not kukking', 'not climbing'] => ['not flagging tail'] (Conf: 95.01%, Supp: 72.4115%)
+['not moaning', 'not kukking', 'not climbing'] => ['not flagging tail'] (Conf: 95.01%, Supp: 72.3784%)
+['not kukking', 'not twitching tail', 'not approaching human'] => ['not flagging tail'] (Conf: 95.00%, Supp: 74.1978%)
+['not kukking', 'not twitching tail'] => ['not flagging tail'] (Conf: 95.00%, Supp: 78.5974%)
+['not moaning', 'not kukking', 'not twitching tail'] => ['not flagging tail'] (Conf: 95.00%, Supp: 78.4982%)
+['not moaning', 'not kukking', 'not twitching tail', 'not approaching human'] => ['not flagging tail'] (Conf: 95.00%, Supp: 74.0986%)
+['Adult', 'not approaching human'] => ['not flagging tail'] (Conf: 94.99%, Supp: 75.9510%)
+['not moaning', 'Adult', 'not approaching human'] => ['not flagging tail'] (Conf: 94.99%, Supp: 75.8849%)
+['not climbing', 'not quaaing'] => ['not flagging tail'] (Conf: 94.98%, Supp: 73.1723%)
+['not moaning', 'not climbing', 'not quaaing'] => ['not flagging tail'] (Conf: 94.98%, Supp: 73.1723%)
+['not twitching tail', 'not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 94.96%, Supp: 75.4879%)
+['not moaning', 'not twitching tail', 'not approaching human', 'not quaaing'] => ['not flagging tail'] (Conf: 94.96%, Supp: 75.4218%)
+['Adult'] => ['not flagging tail'] (Conf: 94.94%, Supp: 80.6484%)
+['not moaning', 'Adult'] => ['not flagging tail'] (Conf: 94.93%, Supp: 80.5822%)
+['not twitching tail', 'not quaaing'] => ['not flagging tail'] (Conf: 94.93%, Supp: 79.9537%)
+['not moaning', 'not twitching tail', 'not quaaing'] => ['not flagging tail'] (Conf: 94.93%, Supp: 79.8875%)
+['not eating'] => ['not flagging tail'] (Conf: 94.92%, Supp: 71.0552%)
+['not moaning', 'not eating'] => ['not flagging tail'] (Conf: 94.91%, Supp: 70.9560%)
+['not approaching human'] => ['not flagging tail'] (Conf: 94.90%, Supp: 89.3152%)
+['not moaning', 'not approaching human'] => ['not flagging tail'] (Conf: 94.90%, Supp: 89.2160%)
+['not moaning'] => ['not flagging tail'] (Conf: 94.87%, Supp: 94.7734%)
+['not twitching tail', 'not approaching human'] => ['not flagging tail'] (Conf: 94.81%, Supp: 76.7119%)
+['not moaning', 'not twitching tail', 'not approaching human'] => ['not flagging tail'] (Conf: 94.80%, Supp: 76.6126%)
+['not twitching tail'] => ['not flagging tail'] (Conf: 94.79%, Supp: 81.1776%)
+['not moaning', 'not twitching tail'] => ['not flagging tail'] (Conf: 94.78%, Supp: 81.0784%)
+['not climbing'] => ['not flagging tail'] (Conf: 94.76%, Supp: 74.1317%)
+['not moaning', 'not climbing'] => ['not flagging tail'] (Conf: 94.75%, Supp: 74.0986%)
+['not twitching tail', 'not flagging tail'] => ['not approaching human'] (Conf: 94.50%, Supp: 76.7119%)
+['not moaning', 'not twitching tail', 'not flagging tail'] => ['not approaching human'] (Conf: 94.49%, Supp: 76.6126%)
+['not twitching tail'] => ['not approaching human'] (Conf: 94.48%, Supp: 80.9130%)
+['not moaning', 'not twitching tail'] => ['not approaching human'] (Conf: 94.47%, Supp: 80.8138%)
+['not twitching tail', 'not flagging tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.41%, Supp: 75.4879%)
+['not moaning', 'not twitching tail', 'not flagging tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.41%, Supp: 75.4218%)
+['not kukking', 'not twitching tail', 'not flagging tail'] => ['not approaching human'] (Conf: 94.40%, Supp: 74.1978%)
+['not kukking', 'not twitching tail'] => ['not approaching human'] (Conf: 94.40%, Supp: 78.1012%)
+['not moaning', 'not kukking', 'not twitching tail'] => ['not approaching human'] (Conf: 94.40%, Supp: 78.0020%)
+['not moaning', 'not kukking', 'not twitching tail', 'not flagging tail'] => ['not approaching human'] (Conf: 94.40%, Supp: 74.0986%)
+['not twitching tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.38%, Supp: 79.4906%)
+['not moaning', 'not twitching tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.38%, Supp: 79.4244%)
+['not kukking', 'not twitching tail', 'not flagging tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.34%, Supp: 73.3047%)
+['not flagging tail', 'not quaaing', 'not moaning', 'not kukking', 'not twitching tail'] => ['not approaching human'] (Conf: 94.33%, Supp: 73.2385%)
+['not kukking', 'not twitching tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.33%, Supp: 77.0427%)
+['not moaning', 'not kukking', 'not twitching tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.33%, Supp: 76.9765%)
+['Adult', 'not flagging tail'] => ['not approaching human'] (Conf: 94.18%, Supp: 75.9510%)
+['not moaning', 'Adult', 'not flagging tail'] => ['not approaching human'] (Conf: 94.17%, Supp: 75.8849%)
+['not flagging tail'] => ['not approaching human'] (Conf: 94.14%, Supp: 89.3152%)
+['not moaning', 'not flagging tail'] => ['not approaching human'] (Conf: 94.14%, Supp: 89.2160%)
+['Adult'] => ['not approaching human'] (Conf: 94.12%, Supp: 79.9537%)
+['not moaning', 'Adult'] => ['not approaching human'] (Conf: 94.12%, Supp: 79.8875%)
+['not moaning'] => ['not approaching human'] (Conf: 94.11%, Supp: 94.0126%)
+['not twitching tail', 'not chasing'] => ['not approaching human'] (Conf: 94.10%, Supp: 73.3708%)
+['not kukking', 'Adult', 'not flagging tail'] => ['not approaching human'] (Conf: 94.10%, Supp: 73.8339%)
+['not moaning', 'not twitching tail', 'not chasing'] => ['not approaching human'] (Conf: 94.10%, Supp: 73.3047%)
+['Adult', 'not flagging tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.10%, Supp: 74.8594%)
+['not moaning', 'Adult', 'not flagging tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.09%, Supp: 74.8263%)
+['not moaning', 'not kukking', 'Adult', 'not flagging tail'] => ['not approaching human'] (Conf: 94.09%, Supp: 73.7678%)
+['not kukking', 'not flagging tail'] => ['not approaching human'] (Conf: 94.06%, Supp: 86.4704%)
+['not kukking', 'Adult'] => ['not approaching human'] (Conf: 94.06%, Supp: 77.5389%)
+['not moaning', 'not kukking', 'Adult'] => ['not approaching human'] (Conf: 94.06%, Supp: 77.4727%)
+['not moaning', 'not kukking', 'not flagging tail'] => ['not approaching human'] (Conf: 94.06%, Supp: 86.3712%)
+['not flagging tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.06%, Supp: 87.9259%)
+['not moaning', 'not flagging tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.05%, Supp: 87.8597%)
+['not kukking'] => ['not approaching human'] (Conf: 94.04%, Supp: 90.8700%)
+['not kukking', 'not twitching tail', 'not chasing'] => ['not approaching human'] (Conf: 94.04%, Supp: 71.0222%)
+['not moaning', 'not kukking', 'not twitching tail', 'not chasing'] => ['not approaching human'] (Conf: 94.04%, Supp: 70.9560%)
+['not kukking', 'Adult', 'not flagging tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.04%, Supp: 73.0400%)
+['not moaning', 'not kukking'] => ['not approaching human'] (Conf: 94.04%, Supp: 90.7708%)
+['Adult', 'not flagging tail', 'not quaaing', 'not moaning', 'not kukking'] => ['not approaching human'] (Conf: 94.03%, Supp: 73.0069%)
+['Adult', 'not quaaing'] => ['not approaching human'] (Conf: 94.03%, Supp: 78.6305%)
+['not moaning', 'Adult', 'not quaaing'] => ['not approaching human'] (Conf: 94.02%, Supp: 78.5974%)
+['not twitching tail', 'not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 94.02%, Supp: 72.3454%)
+['not moaning', 'not twitching tail', 'not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 94.02%, Supp: 72.2792%)
+['not quaaing'] => ['not approaching human'] (Conf: 94.01%, Supp: 92.4578%)
+['not moaning', 'not quaaing'] => ['not approaching human'] (Conf: 94.01%, Supp: 92.3917%)
+['not kukking', 'not flagging tail', 'not quaaing'] => ['not approaching human'] (Conf: 94.00%, Supp: 85.4780%)
+['not moaning', 'not kukking', 'not flagging tail', 'not quaaing'] => ['not approaching human'] (Conf: 93.99%, Supp: 85.4118%)
+['not kukking', 'Adult', 'not quaaing'] => ['not approaching human'] (Conf: 93.99%, Supp: 76.5796%)
+['not kukking', 'not twitching tail', 'not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 93.99%, Supp: 70.3606%)
+['not moaning', 'not kukking', 'Adult', 'not quaaing'] => ['not approaching human'] (Conf: 93.99%, Supp: 76.5465%)
+['not chasing', 'not quaaing', 'not moaning', 'not kukking', 'not twitching tail'] => ['not approaching human'] (Conf: 93.98%, Supp: 70.2944%)
+['not kukking', 'not quaaing'] => ['not approaching human'] (Conf: 93.97%, Supp: 89.7122%)
+['not moaning', 'not kukking', 'not quaaing'] => ['not approaching human'] (Conf: 93.97%, Supp: 89.6460%)
+['not running'] => ['not approaching human'] (Conf: 93.89%, Supp: 71.2206%)
+['not moaning', 'not running'] => ['not approaching human'] (Conf: 93.89%, Supp: 71.1214%)
+['not flagging tail', 'not chasing'] => ['not approaching human'] (Conf: 93.87%, Supp: 81.1115%)
+['not moaning', 'not flagging tail', 'not chasing'] => ['not approaching human'] (Conf: 93.87%, Supp: 81.0453%)
+['not kukking', 'not flagging tail', 'not chasing'] => ['not approaching human'] (Conf: 93.81%, Supp: 78.7628%)
+['not moaning', 'not kukking', 'not flagging tail', 'not chasing'] => ['not approaching human'] (Conf: 93.81%, Supp: 78.6967%)
+['not chasing'] => ['not approaching human'] (Conf: 93.80%, Supp: 85.1472%)
+['not moaning', 'not chasing'] => ['not approaching human'] (Conf: 93.80%, Supp: 85.0810%)
+['not flagging tail', 'not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 93.80%, Supp: 80.0529%)
+['not moaning', 'not flagging tail', 'not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 93.79%, Supp: 79.9868%)
+['Adult', 'not chasing'] => ['not approaching human'] (Conf: 93.76%, Supp: 72.6100%)
+['not kukking', 'not chasing'] => ['not approaching human'] (Conf: 93.76%, Supp: 82.5339%)
+['not moaning', 'Adult', 'not chasing'] => ['not approaching human'] (Conf: 93.76%, Supp: 72.5769%)
+['not kukking', 'not flagging tail', 'not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 93.76%, Supp: 78.0351%)
+['not moaning', 'not kukking', 'not chasing'] => ['not approaching human'] (Conf: 93.76%, Supp: 82.4677%)
+['not flagging tail', 'not chasing', 'not quaaing', 'not moaning', 'not kukking'] => ['not approaching human'] (Conf: 93.75%, Supp: 77.9689%)
+['not kukking', 'Adult', 'not chasing'] => ['not approaching human'] (Conf: 93.73%, Supp: 70.7244%)
+['not moaning', 'not kukking', 'Adult', 'not chasing'] => ['not approaching human'] (Conf: 93.73%, Supp: 70.6914%)
+['not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 93.72%, Supp: 83.9894%)
+['not moaning', 'not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 93.72%, Supp: 83.9233%)
+['not kukking', 'not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 93.71%, Supp: 81.7731%)
+['not moaning', 'not kukking', 'not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 93.70%, Supp: 81.7069%)
+['Adult', 'not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 93.69%, Supp: 71.7168%)
+['not moaning', 'Adult', 'not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 93.69%, Supp: 71.6838%)
+['not kukking', 'Adult', 'not chasing', 'not quaaing'] => ['not approaching human'] (Conf: 93.68%, Supp: 70.0959%)
+['Adult', 'not chasing', 'not quaaing', 'not moaning', 'not kukking'] => ['not approaching human'] (Conf: 93.68%, Supp: 70.0629%)
+['not climbing'] => ['not approaching human'] (Conf: 93.62%, Supp: 73.2385%)
+['not moaning', 'not climbing'] => ['not approaching human'] (Conf: 93.61%, Supp: 73.2054%)
+['not kukking', 'not climbing'] => ['not approaching human'] (Conf: 93.58%, Supp: 71.3199%)
+['not moaning', 'not kukking', 'not climbing'] => ['not approaching human'] (Conf: 93.57%, Supp: 71.2868%)
+['not climbing', 'not quaaing'] => ['not approaching human'] (Conf: 93.52%, Supp: 72.0476%)
+['not moaning', 'not climbing', 'not quaaing'] => ['not approaching human'] (Conf: 93.52%, Supp: 72.0476%)
+['not kukking', 'not climbing', 'not quaaing'] => ['not approaching human'] (Conf: 93.50%, Supp: 70.4598%)
+['not moaning', 'not kukking', 'not climbing', 'not quaaing'] => ['not approaching human'] (Conf: 93.50%, Supp: 70.4598%)
+['not running from human'] => ['not approaching human'] (Conf: 93.26%, Supp: 72.3454%)
+['not moaning', 'not running from human'] => ['not approaching human'] (Conf: 93.26%, Supp: 72.3123%)
+['not kukking', 'not running from human'] => ['not approaching human'] (Conf: 93.18%, Supp: 70.0959%)
+['not moaning', 'not kukking', 'not running from human'] => ['not approaching human'] (Conf: 93.18%, Supp: 70.0629%)
+['not running from human', 'not quaaing'] => ['not approaching human'] (Conf: 93.14%, Supp: 70.9891%)
+['not moaning', 'not running from human', 'not quaaing'] => ['not approaching human'] (Conf: 93.14%, Supp: 70.9891%)
+['not kukking', 'Adult', 'not flagging tail', 'not quaaing'] => ['not chasing'] (Conf: 91.95%, Supp: 71.4191%)
+['Adult', 'not flagging tail', 'not quaaing', 'not moaning', 'not kukking'] => ['not chasing'] (Conf: 91.95%, Supp: 71.3860%)
+['not kukking', 'Adult', 'not quaaing'] => ['not chasing'] (Conf: 91.84%, Supp: 74.8263%)
+['not moaning', 'not kukking', 'Adult', 'not quaaing'] => ['not chasing'] (Conf: 91.84%, Supp: 74.7933%)
+['not moaning', 'not kukking', 'Adult', 'not flagging tail'] => ['not chasing'] (Conf: 91.81%, Supp: 71.9815%)
+['not kukking', 'not twitching tail', 'not flagging tail', 'not quaaing'] => ['not chasing'] (Conf: 91.78%, Supp: 71.3199%)
+['not kukking', 'Adult', 'not flagging tail'] => ['not chasing'] (Conf: 91.78%, Supp: 72.0146%)
+['not flagging tail', 'not quaaing', 'not moaning', 'not kukking', 'not twitching tail'] => ['not chasing'] (Conf: 91.78%, Supp: 71.2537%)
+['Adult', 'not flagging tail', 'not quaaing'] => ['not chasing'] (Conf: 91.68%, Supp: 72.9408%)
+['not moaning', 'Adult', 'not flagging tail', 'not quaaing'] => ['not chasing'] (Conf: 91.68%, Supp: 72.9077%)
+['not kukking', 'not twitching tail', 'not quaaing'] => ['not chasing'] (Conf: 91.66%, Supp: 74.8594%)
+['not moaning', 'not kukking', 'not twitching tail', 'not quaaing'] => ['not chasing'] (Conf: 91.65%, Supp: 74.7933%)
+['not moaning', 'not kukking', 'not twitching tail', 'not flagging tail'] => ['not chasing'] (Conf: 91.57%, Supp: 71.8822%)
+['not moaning', 'not kukking', 'Adult'] => ['not chasing'] (Conf: 91.57%, Supp: 75.4218%)
+['not twitching tail', 'not flagging tail', 'not quaaing'] => ['not chasing'] (Conf: 91.56%, Supp: 73.2054%)
+['not moaning', 'not twitching tail', 'not flagging tail', 'not quaaing'] => ['not chasing'] (Conf: 91.55%, Supp: 73.1393%)
+['not kukking', 'not twitching tail', 'not flagging tail'] => ['not chasing'] (Conf: 91.54%, Supp: 71.9484%)
+['Adult', 'not quaaing'] => ['not chasing'] (Conf: 91.53%, Supp: 76.5465%)
+['not kukking', 'Adult', 'not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 91.53%, Supp: 70.0959%)
+['not kukking', 'Adult'] => ['not chasing'] (Conf: 91.53%, Supp: 75.4548%)
+['not moaning', 'Adult', 'not quaaing'] => ['not chasing'] (Conf: 91.53%, Supp: 76.5134%)
+['Adult', 'not approaching human', 'not quaaing', 'not moaning', 'not kukking'] => ['not chasing'] (Conf: 91.53%, Supp: 70.0629%)
+['not kukking', 'not flagging tail', 'not quaaing'] => ['not chasing'] (Conf: 91.52%, Supp: 83.2286%)
+['not moaning', 'not kukking', 'not flagging tail', 'not quaaing'] => ['not chasing'] (Conf: 91.52%, Supp: 83.1624%)
+['not moaning', 'Adult', 'not flagging tail'] => ['not chasing'] (Conf: 91.50%, Supp: 73.7347%)
+['Adult', 'not flagging tail'] => ['not chasing'] (Conf: 91.47%, Supp: 73.7678%)
+['not kukking', 'not quaaing'] => ['not chasing'] (Conf: 91.41%, Supp: 87.2643%)
+['not moaning', 'not kukking', 'not quaaing'] => ['not chasing'] (Conf: 91.40%, Supp: 87.1981%)
+['not moaning', 'not twitching tail', 'not flagging tail'] => ['not chasing'] (Conf: 91.39%, Supp: 74.0986%)
+['not twitching tail', 'not flagging tail'] => ['not chasing'] (Conf: 91.36%, Supp: 74.1647%)
+['not twitching tail', 'not quaaing'] => ['not chasing'] (Conf: 91.36%, Supp: 76.9434%)
+['not moaning', 'not kukking', 'not flagging tail'] => ['not chasing'] (Conf: 91.35%, Supp: 83.8902%)
+['not moaning', 'not twitching tail', 'not quaaing'] => ['not chasing'] (Conf: 91.35%, Supp: 76.8773%)
+['not kukking', 'not flagging tail'] => ['not chasing'] (Conf: 91.33%, Supp: 83.9563%)
+['not kukking', 'not twitching tail', 'not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 91.33%, Supp: 70.3606%)
+['not approaching human', 'not quaaing', 'not moaning', 'not kukking', 'not twitching tail'] => ['not chasing'] (Conf: 91.32%, Supp: 70.2944%)
+['not moaning', 'not kukking', 'not twitching tail'] => ['not chasing'] (Conf: 91.31%, Supp: 75.4548%)
+['not flagging tail', 'not quaaing'] => ['not chasing'] (Conf: 91.30%, Supp: 85.3457%)
+['not kukking', 'not flagging tail', 'not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 91.29%, Supp: 78.0351%)
+['not moaning', 'not flagging tail', 'not quaaing'] => ['not chasing'] (Conf: 91.29%, Supp: 85.2795%)
+['not flagging tail', 'not approaching human', 'not quaaing', 'not moaning', 'not kukking'] => ['not chasing'] (Conf: 91.29%, Supp: 77.9689%)
+['not kukking', 'not twitching tail'] => ['not chasing'] (Conf: 91.28%, Supp: 75.5210%)
+['not moaning', 'not kukking', 'Adult', 'not approaching human'] => ['not chasing'] (Conf: 91.25%, Supp: 70.6914%)
+['not kukking', 'Adult', 'not approaching human'] => ['not chasing'] (Conf: 91.21%, Supp: 70.7244%)
+['Adult', 'not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 91.21%, Supp: 71.7168%)
+['not moaning', 'Adult', 'not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 91.20%, Supp: 71.6838%)
+['not moaning', 'Adult'] => ['not chasing'] (Conf: 91.19%, Supp: 77.4065%)
+['Adult'] => ['not chasing'] (Conf: 91.16%, Supp: 77.4396%)
+['not kukking', 'not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 91.15%, Supp: 81.7731%)
+['not moaning', 'not kukking', 'not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 91.14%, Supp: 81.7069%)
+['not moaning', 'not kukking'] => ['not chasing'] (Conf: 91.12%, Supp: 87.9590%)
+['not quaaing'] => ['not chasing'] (Conf: 91.12%, Supp: 89.6130%)
+['not moaning', 'not kukking', 'not flagging tail', 'not approaching human'] => ['not chasing'] (Conf: 91.11%, Supp: 78.6967%)
+['not moaning', 'not quaaing'] => ['not chasing'] (Conf: 91.11%, Supp: 89.5468%)
+['not moaning', 'not flagging tail'] => ['not chasing'] (Conf: 91.10%, Supp: 86.3381%)
+['not kukking'] => ['not chasing'] (Conf: 91.10%, Supp: 88.0251%)
+['not kukking', 'not flagging tail', 'not approaching human'] => ['not chasing'] (Conf: 91.09%, Supp: 78.7628%)
+['not flagging tail'] => ['not chasing'] (Conf: 91.07%, Supp: 86.4042%)
+['not moaning', 'not twitching tail'] => ['not chasing'] (Conf: 91.07%, Supp: 77.9027%)
+['not flagging tail', 'not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 91.05%, Supp: 80.0529%)
+['not moaning', 'not flagging tail', 'not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 91.04%, Supp: 79.9868%)
+['not twitching tail'] => ['not chasing'] (Conf: 91.04%, Supp: 77.9689%)
+['not twitching tail', 'not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 91.01%, Supp: 72.3454%)
+['not moaning', 'not twitching tail', 'not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 91.00%, Supp: 72.2792%)
+['not moaning', 'not kukking', 'not twitching tail', 'not approaching human'] => ['not chasing'] (Conf: 90.97%, Supp: 70.9560%)
+['not kukking', 'not twitching tail', 'not approaching human'] => ['not chasing'] (Conf: 90.94%, Supp: 71.0222%)
+['not moaning', 'not kukking', 'not approaching human'] => ['not chasing'] (Conf: 90.85%, Supp: 82.4677%)
+['not moaning', 'Adult', 'not approaching human'] => ['not chasing'] (Conf: 90.85%, Supp: 72.5769%)
+['not moaning', 'not flagging tail', 'not approaching human'] => ['not chasing'] (Conf: 90.84%, Supp: 81.0453%)
+['not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 90.84%, Supp: 83.9894%)
+['not moaning', 'not approaching human', 'not quaaing'] => ['not chasing'] (Conf: 90.83%, Supp: 83.9233%)
+['not kukking', 'not approaching human'] => ['not chasing'] (Conf: 90.83%, Supp: 82.5339%)
+['Adult', 'not approaching human'] => ['not chasing'] (Conf: 90.82%, Supp: 72.6100%)
+['not flagging tail', 'not approaching human'] => ['not chasing'] (Conf: 90.81%, Supp: 81.1115%)
+['not moaning'] => ['not chasing'] (Conf: 90.79%, Supp: 90.7046%)
+['not moaning', 'not twitching tail', 'not approaching human'] => ['not chasing'] (Conf: 90.71%, Supp: 73.3047%)
+['not twitching tail', 'not approaching human'] => ['not chasing'] (Conf: 90.68%, Supp: 73.3708%)
+['not moaning', 'not approaching human'] => ['not chasing'] (Conf: 90.50%, Supp: 85.0810%)
+['not approaching human'] => ['not chasing'] (Conf: 90.47%, Supp: 85.1472%)
+['not moaning', 'not climbing'] => ['not chasing'] (Conf: 90.23%, Supp: 70.5590%)
+['not climbing'] => ['not chasing'] (Conf: 90.19%, Supp: 70.5590%)
+['not approaching human', 'not chasing'] => ['not twitching tail'] (Conf: 86.17%, Supp: 73.3708%)
+['not moaning', 'not approaching human', 'not chasing'] => ['not twitching tail'] (Conf: 86.16%, Supp: 73.3047%)
+['not approaching human', 'not chasing', 'not quaaing'] => ['not twitching tail'] (Conf: 86.14%, Supp: 72.3454%)
+['not moaning', 'not chasing', 'not approaching human', 'not quaaing'] => ['not twitching tail'] (Conf: 86.13%, Supp: 72.2792%)
+['not kukking', 'not approaching human', 'not chasing'] => ['not twitching tail'] (Conf: 86.05%, Supp: 71.0222%)
+['not approaching human', 'not kukking', 'not chasing', 'not quaaing'] => ['not twitching tail'] (Conf: 86.04%, Supp: 70.3606%)
+['not moaning', 'not kukking', 'not chasing', 'not approaching human'] => ['not twitching tail'] (Conf: 86.04%, Supp: 70.9560%)
+['not approaching human', 'not chasing', 'not quaaing', 'not moaning', 'not kukking'] => ['not twitching tail'] (Conf: 86.03%, Supp: 70.2944%)
+['not approaching human'] => ['not twitching tail'] (Conf: 85.98%, Supp: 80.9130%)
+['not approaching human', 'not quaaing'] => ['not twitching tail'] (Conf: 85.97%, Supp: 79.4906%)
+['not moaning', 'not approaching human', 'not quaaing'] => ['not twitching tail'] (Conf: 85.96%, Supp: 79.4244%)
+['not moaning', 'not approaching human'] => ['not twitching tail'] (Conf: 85.96%, Supp: 80.8138%)
+['not kukking', 'not approaching human'] => ['not twitching tail'] (Conf: 85.95%, Supp: 78.1012%)
+['not moaning', 'not kukking', 'not approaching human'] => ['not twitching tail'] (Conf: 85.93%, Supp: 78.0020%)
+['not chasing'] => ['not twitching tail'] (Conf: 85.90%, Supp: 77.9689%)
+['not flagging tail', 'not approaching human'] => ['not twitching tail'] (Conf: 85.89%, Supp: 76.7119%)
+['not moaning', 'not chasing'] => ['not twitching tail'] (Conf: 85.89%, Supp: 77.9027%)
+['not kukking', 'not approaching human', 'not quaaing'] => ['not twitching tail'] (Conf: 85.88%, Supp: 77.0427%)
+['not moaning', 'not flagging tail', 'not approaching human'] => ['not twitching tail'] (Conf: 85.87%, Supp: 76.6126%)
+['not moaning', 'not kukking', 'not approaching human', 'not quaaing'] => ['not twitching tail'] (Conf: 85.87%, Supp: 76.9765%)
+['not chasing', 'not quaaing'] => ['not twitching tail'] (Conf: 85.86%, Supp: 76.9434%)
+['not flagging tail', 'not approaching human', 'not quaaing'] => ['not twitching tail'] (Conf: 85.85%, Supp: 75.4879%)
+['not moaning', 'not chasing', 'not quaaing'] => ['not twitching tail'] (Conf: 85.85%, Supp: 76.8773%)
+['not moaning', 'not flagging tail', 'not approaching human', 'not quaaing'] => ['not twitching tail'] (Conf: 85.84%, Supp: 75.4218%)
+['not flagging tail', 'not chasing', 'not quaaing', 'not moaning', 'not kukking'] => ['Adult'] (Conf: 85.84%, Supp: 71.3860%)
+['not flagging tail', 'not chasing'] => ['not twitching tail'] (Conf: 85.83%, Supp: 74.1647%)
+['not moaning', 'not flagging tail', 'not chasing'] => ['not twitching tail'] (Conf: 85.82%, Supp: 74.0986%)
+['not kukking', 'not flagging tail', 'not chasing', 'not quaaing'] => ['Adult'] (Conf: 85.81%, Supp: 71.4191%)
+['not kukking', 'not flagging tail', 'not approaching human'] => ['not twitching tail'] (Conf: 85.81%, Supp: 74.1978%)
+['not moaning', 'not kukking', 'not flagging tail', 'not chasing'] => ['Adult'] (Conf: 85.80%, Supp: 71.9815%)
+['not kukking', 'not chasing'] => ['not twitching tail'] (Conf: 85.79%, Supp: 75.5210%)
+['not kukking', 'Adult'] => ['not twitching tail'] (Conf: 85.79%, Supp: 70.7244%)
+['not moaning', 'not kukking', 'not flagging tail', 'not approaching human'] => ['not twitching tail'] (Conf: 85.79%, Supp: 74.0986%)
+['not kukking', 'not chasing', 'not quaaing'] => ['not twitching tail'] (Conf: 85.78%, Supp: 74.8594%)
+['not moaning', 'not kukking', 'not chasing'] => ['not twitching tail'] (Conf: 85.78%, Supp: 75.4548%)
+['not moaning', 'not kukking', 'Adult'] => ['not twitching tail'] (Conf: 85.78%, Supp: 70.6583%)
+['not kukking', 'not flagging tail', 'not chasing'] => ['Adult'] (Conf: 85.78%, Supp: 72.0146%)
+['not flagging tail', 'not chasing', 'not quaaing'] => ['not twitching tail'] (Conf: 85.78%, Supp: 73.2054%)
+['not moaning', 'not kukking', 'not chasing', 'not quaaing'] => ['Adult'] (Conf: 85.77%, Supp: 74.7933%)
+['not moaning', 'not kukking', 'not chasing', 'not quaaing'] => ['not twitching tail'] (Conf: 85.77%, Supp: 74.7933%)
+['not moaning', 'not flagging tail', 'not chasing', 'not quaaing'] => ['not twitching tail'] (Conf: 85.76%, Supp: 73.1393%)
+['not kukking', 'not flagging tail', 'not approaching human', 'not quaaing'] => ['not twitching tail'] (Conf: 85.76%, Supp: 73.3047%)
+['not approaching human', 'not chasing', 'not quaaing', 'not moaning', 'not kukking'] => ['Adult'] (Conf: 85.75%, Supp: 70.0629%)
+['not flagging tail', 'not approaching human', 'not quaaing', 'not moaning', 'not kukking'] => ['not twitching tail'] (Conf: 85.75%, Supp: 73.2385%)
+['not kukking', 'not chasing', 'not quaaing'] => ['Adult'] (Conf: 85.75%, Supp: 74.8263%)
+['not moaning', 'not kukking', 'not chasing'] => ['Adult'] (Conf: 85.75%, Supp: 75.4218%)
+['not approaching human', 'not kukking', 'not chasing', 'not quaaing'] => ['Adult'] (Conf: 85.72%, Supp: 70.0959%)
+['not moaning', 'not kukking', 'not chasing', 'not approaching human'] => ['Adult'] (Conf: 85.72%, Supp: 70.6914%)
+['Adult', 'not quaaing'] => ['not twitching tail'] (Conf: 85.72%, Supp: 71.6838%)
+['not kukking', 'not chasing'] => ['Adult'] (Conf: 85.72%, Supp: 75.4548%)
+['not moaning', 'Adult', 'not quaaing'] => ['not twitching tail'] (Conf: 85.71%, Supp: 71.6507%)
+['Adult'] => ['not twitching tail'] (Conf: 85.71%, Supp: 72.8085%)
+['not moaning', 'Adult'] => ['not twitching tail'] (Conf: 85.70%, Supp: 72.7423%)
+['not kukking', 'not flagging tail', 'not chasing'] => ['not twitching tail'] (Conf: 85.70%, Supp: 71.9484%)
+['not kukking', 'not flagging tail', 'not chasing', 'not quaaing'] => ['not twitching tail'] (Conf: 85.69%, Supp: 71.3199%)
+['not kukking', 'not chasing', 'not approaching human'] => ['Adult'] (Conf: 85.69%, Supp: 70.7244%)
+['not moaning', 'not kukking', 'not flagging tail', 'not chasing'] => ['not twitching tail'] (Conf: 85.69%, Supp: 71.8822%)
+['not flagging tail', 'not chasing', 'not quaaing', 'not moaning', 'not kukking'] => ['not twitching tail'] (Conf: 85.68%, Supp: 71.2537%)
+['not quaaing'] => ['not twitching tail'] (Conf: 85.64%, Supp: 84.2210%)
+['not moaning'] => ['not twitching tail'] (Conf: 85.63%, Supp: 85.5442%)
+['not moaning', 'not quaaing'] => ['not twitching tail'] (Conf: 85.63%, Supp: 84.1548%)
+['not kukking'] => ['not twitching tail'] (Conf: 85.62%, Supp: 82.7324%)
+['not moaning', 'not kukking'] => ['not twitching tail'] (Conf: 85.61%, Supp: 82.6331%)
+['not flagging tail'] => ['not twitching tail'] (Conf: 85.56%, Supp: 81.1776%)
+['not kukking', 'not quaaing'] => ['not twitching tail'] (Conf: 85.55%, Supp: 81.6738%)
+['not moaning', 'not flagging tail'] => ['not twitching tail'] (Conf: 85.55%, Supp: 81.0784%)
+['not moaning', 'not kukking', 'not quaaing'] => ['not twitching tail'] (Conf: 85.54%, Supp: 81.6077%)
+['not flagging tail', 'not quaaing'] => ['not twitching tail'] (Conf: 85.53%, Supp: 79.9537%)
+['not moaning', 'not flagging tail', 'not quaaing'] => ['not twitching tail'] (Conf: 85.52%, Supp: 79.8875%)
+['not moaning', 'not kukking', 'not twitching tail'] => ['Adult'] (Conf: 85.51%, Supp: 70.6583%)
+['not kukking', 'not flagging tail'] => ['not twitching tail'] (Conf: 85.50%, Supp: 78.5974%)
+['not moaning', 'not flagging tail', 'not chasing', 'not quaaing'] => ['Adult'] (Conf: 85.49%, Supp: 72.9077%)
+['not kukking', 'not twitching tail'] => ['Adult'] (Conf: 85.49%, Supp: 70.7244%)
+['not moaning', 'not kukking', 'not flagging tail'] => ['not twitching tail'] (Conf: 85.48%, Supp: 78.4982%)
+['not flagging tail', 'not approaching human', 'not quaaing', 'not moaning', 'not kukking'] => ['Adult'] (Conf: 85.48%, Supp: 73.0069%)
+['not flagging tail', 'not chasing', 'not quaaing'] => ['Adult'] (Conf: 85.47%, Supp: 72.9408%)
+['not kukking', 'not flagging tail', 'not quaaing'] => ['not twitching tail'] (Conf: 85.45%, Supp: 77.7043%)
+['not kukking', 'not flagging tail', 'not approaching human', 'not quaaing'] => ['Adult'] (Conf: 85.45%, Supp: 73.0400%)
+['not moaning', 'not chasing', 'not quaaing'] => ['Adult'] (Conf: 85.45%, Supp: 76.5134%)
+['not moaning', 'not kukking', 'not flagging tail', 'not quaaing'] => ['not twitching tail'] (Conf: 85.44%, Supp: 77.6381%)
+['not moaning', 'not kukking', 'not flagging tail', 'not quaaing'] => ['Adult'] (Conf: 85.44%, Supp: 77.6381%)
+['not chasing', 'not quaaing'] => ['Adult'] (Conf: 85.42%, Supp: 76.5465%)
+['not moaning', 'not chasing', 'not approaching human', 'not quaaing'] => ['Adult'] (Conf: 85.42%, Supp: 71.6838%)
+['not kukking', 'not flagging tail', 'not quaaing'] => ['Adult'] (Conf: 85.41%, Supp: 77.6712%)
+['not moaning', 'not kukking', 'not flagging tail', 'not approaching human'] => ['Adult'] (Conf: 85.41%, Supp: 73.7678%)
+['not moaning', 'not flagging tail', 'not chasing'] => ['Adult'] (Conf: 85.40%, Supp: 73.7347%)
+['not approaching human', 'not chasing', 'not quaaing'] => ['Adult'] (Conf: 85.39%, Supp: 71.7168%)
+['not moaning', 'not kukking', 'not approaching human', 'not quaaing'] => ['Adult'] (Conf: 85.39%, Supp: 76.5465%)
+['not kukking', 'not flagging tail', 'not approaching human'] => ['Adult'] (Conf: 85.39%, Supp: 73.8339%)
+['not flagging tail', 'not chasing'] => ['Adult'] (Conf: 85.38%, Supp: 73.7678%)
+['not moaning', 'not kukking', 'not flagging tail'] => ['Adult'] (Conf: 85.37%, Supp: 78.3989%)
+['not moaning', 'not kukking', 'not quaaing'] => ['Adult'] (Conf: 85.37%, Supp: 81.4423%)
+['not kukking', 'not approaching human', 'not quaaing'] => ['Adult'] (Conf: 85.36%, Supp: 76.5796%)
+['not kukking', 'not flagging tail'] => ['Adult'] (Conf: 85.35%, Supp: 78.4651%)
+['not moaning', 'not kukking', 'not approaching human'] => ['Adult'] (Conf: 85.35%, Supp: 77.4727%)
+['not kukking', 'not quaaing'] => ['Adult'] (Conf: 85.34%, Supp: 81.4754%)
+['not moaning', 'not chasing'] => ['Adult'] (Conf: 85.34%, Supp: 77.4065%)
+['not moaning', 'not kukking'] => ['Adult'] (Conf: 85.33%, Supp: 82.3685%)
+['not kukking', 'not approaching human'] => ['Adult'] (Conf: 85.33%, Supp: 77.5389%)
+['not chasing'] => ['Adult'] (Conf: 85.31%, Supp: 77.4396%)
+['not kukking'] => ['Adult'] (Conf: 85.31%, Supp: 82.4347%)
+['not moaning', 'not approaching human', 'not chasing'] => ['Adult'] (Conf: 85.30%, Supp: 72.5769%)
+['not approaching human', 'not chasing'] => ['Adult'] (Conf: 85.28%, Supp: 72.6100%)
+['not moaning', 'not flagging tail', 'not approaching human', 'not quaaing'] => ['Adult'] (Conf: 85.17%, Supp: 74.8263%)
+['not moaning', 'not twitching tail', 'not quaaing'] => ['Adult'] (Conf: 85.14%, Supp: 71.6507%)
+['not flagging tail', 'not approaching human', 'not quaaing'] => ['Adult'] (Conf: 85.14%, Supp: 74.8594%)
+['not moaning', 'not flagging tail', 'not quaaing'] => ['Adult'] (Conf: 85.13%, Supp: 79.5237%)
+['not twitching tail', 'not quaaing'] => ['Adult'] (Conf: 85.11%, Supp: 71.6838%)
+['not flagging tail', 'not quaaing'] => ['Adult'] (Conf: 85.10%, Supp: 79.5567%)
+['not moaning', 'not approaching human', 'not quaaing'] => ['Adult'] (Conf: 85.07%, Supp: 78.5974%)
+['not moaning', 'not flagging tail', 'not approaching human'] => ['Adult'] (Conf: 85.06%, Supp: 75.8849%)
+['not moaning', 'not quaaing'] => ['Adult'] (Conf: 85.06%, Supp: 83.5925%)
+['not approaching human', 'not quaaing'] => ['Adult'] (Conf: 85.04%, Supp: 78.6305%)
+['not flagging tail', 'not approaching human'] => ['Adult'] (Conf: 85.04%, Supp: 75.9510%)
+['not moaning', 'not twitching tail'] => ['Adult'] (Conf: 85.03%, Supp: 72.7423%)
+['not quaaing'] => ['Adult'] (Conf: 85.03%, Supp: 83.6255%)
+['not moaning', 'not flagging tail'] => ['Adult'] (Conf: 85.03%, Supp: 80.5822%)
+['not twitching tail'] => ['Adult'] (Conf: 85.01%, Supp: 72.8085%)
+['not flagging tail'] => ['Adult'] (Conf: 85.01%, Supp: 80.6484%)
+['not moaning', 'not approaching human'] => ['Adult'] (Conf: 84.98%, Supp: 79.8875%)
+['not moaning'] => ['Adult'] (Conf: 84.97%, Supp: 84.8826%)
+['not approaching human'] => ['Adult'] (Conf: 84.96%, Supp: 79.9537%)
